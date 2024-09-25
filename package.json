@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "csv-parser": "^3.0.0",
+    "express": "^4.21.0",
+    "express-generator": "^4.16.1",
+    "express-handlebars": "^8.0.1"
+  },
+  "name": "coderdex-be",
+  "version": "1.0.0",
+  "description": "pokemondex",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevin-HauPham/pokemondex.git"
+  },
+  "author": "HauPham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevin-HauPham/pokemondex/issues"
+  },
+  "homepage": "https://github.com/kevin-HauPham/pokemondex#readme"
+}
