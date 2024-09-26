@@ -1,3 +1,5 @@
+const { pokemonData } = require("../../data/db/data");
+
 const validPokemonTypes = [
   "bug",
   "dragon",
@@ -11,7 +13,7 @@ const validPokemonTypes = [
   "dark",
   "electric",
   "fighting",
-  "flyingText",
+  "flying",
   "grass",
   "ice",
   "poison",
@@ -20,11 +22,12 @@ const validPokemonTypes = [
 ];
 
 function postNewPokemonController(req, res) {
-  const { id, name, types, url } = req.body; // Destructure the request body
+  const { id, name, types, url } = req.body;
+
   // Error: Missing required data
-  if (!id || !name || !types || !url) {
-    return res.status(400).json({ error: "Missing required data." });
-  }
+  // if (!id || !name || !types || !url) {
+  //   return res.status(400).json({ error: "Missing required data." });
+  // }
 
   // Error: Pokémon can only have one or two types
   if (types.length > 2) {
@@ -33,7 +36,7 @@ function postNewPokemonController(req, res) {
       .json({ error: "Pokémon can only have one or two types." });
   }
 
-  // Error: Pokémon's type is invalid
+  //Error: Pokémon's type is invalid
   const invalidTypes = types.filter(
     (type) => !validPokemonTypes.includes(type)
   );
@@ -53,19 +56,16 @@ function postNewPokemonController(req, res) {
   }
 
   // Create a new Pokémon object
-  const newPokemon = {
-    id,
-    name,
-    types,
-    url,
-  };
+  const newPokemon = { id, name, types, url };
 
   // Add the new Pokémon to the data array and respond
   pokemonData.push(newPokemon);
+  req.app.locals.pokemonData = pokemonData; // Update app.locals
 
   res.status(201).json({
     message: "Pokémon created successfully.",
     pokemon: newPokemon,
   });
 }
+
 module.exports = postNewPokemonController;

@@ -1,8 +1,11 @@
 const searchByTypeController = require("../controllers/searchByTypeController");
 const searchByNameController = require("../controllers/searchByNameController");
 const searchByIdController = require("../controllers/searchByIdController");
-const pokemons = require("../controllers/pokemons");
+const pokemons = require("../controllers/getPokemons");
 const postNewPokemon = require("../controllers/postNewPokemonController");
+
+const express = require("express");
+const app = express();
 
 function routes(app) {
   app.get("/api/pokemons", (req, res) => {
@@ -25,8 +28,9 @@ function routes(app) {
     searchByIdController(req, res);
   });
 
-  app.post("/api/pokemons/create", (req, res) => {
-    postNewPokemon(req.res);
+  app.use(express.json());
+  app.post("/api/pokemons", (req, res) => {
+    postNewPokemon(req, res);
   });
 }
 

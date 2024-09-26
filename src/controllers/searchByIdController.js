@@ -19,14 +19,25 @@ function searchByIdController(req, res) {
   }
 
   // Use modular arithmetic to handle circular cases
-  const previousId = ((pokemonId - 2 + totalPokemons) % totalPokemons) + 1; // Previous Pokémon ID, circular
-  const nextId = (pokemonId % totalPokemons) + 1; // Next Pokémon ID, circular
-
-  const previousPokemon = pokemonData.find(
-    (pokemon) => pokemon.id === previousId
+  const pokemonIndex = pokemonData.findIndex(
+    (pokemon) => pokemon.id === pokemonId
   );
-  console.log("pokemon", pokemon);
-  const nextPokemon = pokemonData.find((pokemon) => pokemon.id === nextId);
+
+  if (pokemonIndex === -1) {
+    return res
+      .status(404)
+      .json({ error: `Pokémon with ID ${pokemonId} not found.` });
+  }
+
+  // Identify previous and next Pokémon based on index
+  const previousPokemon =
+    pokemonIndex === 0
+      ? pokemonData[totalPokemons - 1]
+      : pokemonData[pokemonIndex - 1]; // Previous Pokémon or null if it's the first
+  const nextPokemon =
+    pokemonIndex === totalPokemons - 1
+      ? pokemonData[0]
+      : pokemonData[pokemonIndex + 1];
 
   // Return the current Pokémon, and the previous and next Pokémon
   const response = {

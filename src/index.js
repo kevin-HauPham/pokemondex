@@ -6,7 +6,8 @@ const port = 3000;
 
 app.use(
   cors({
-    origin: "http://localhost",
+    origin: "http://localhost:3001",
+    methods: ["GET", "POST", "PUT", "DELETE"],
     preflightContinue: true,
   })
 );

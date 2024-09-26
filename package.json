@@ -4,14 +4,15 @@
     "csv-parser": "^3.0.0",
     "express": "^4.21.0",
     "express-generator": "^4.16.1",
-    "express-handlebars": "^8.0.1"
+    "express-handlebars": "^8.0.1",
+    "postman-request": "^2.88.1-postman.40"
   },
   "name": "coderdex-be",
   "version": "1.0.0",
   "description": "pokemondex",
   "main": "src/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "jest",
     "start": "nodemon src/index.js"
   },
   "repository": {
@@ -23,5 +24,9 @@
   "bugs": {
     "url": "https://github.com/kevin-HauPham/pokemondex/issues"
   },
-  "homepage": "https://github.com/kevin-HauPham/pokemondex#readme"
+  "homepage": "https://github.com/kevin-HauPham/pokemondex#readme",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "supertest": "^7.0.0"
+  }
 }

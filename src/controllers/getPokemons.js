@@ -1,6 +1,6 @@
 const { pokemonData } = require("../../data/db/data");
 
-function pokemons(req, res) {
+function getPokemons(req, res) {
   const page = parseInt(req.query.page) || 1;
   const limit = parseInt(req.query.limit);
 
@@ -28,4 +28,4 @@ function pokemons(req, res) {
   });
 }
 
-module.exports = pokemons;
+module.exports = getPokemons;
