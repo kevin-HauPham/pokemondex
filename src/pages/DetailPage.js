@@ -156,7 +156,7 @@ export const DetailPage = () => {
                   : "Unknown"}
               </Typography>
               <Typography variant="h4" display="inline" color="gray">
-                #{("000" + (pokemon?.id || "000")).slice(-3)}
+                {`#00${pokemon.id}`}
               </Typography>
             </Box>
           </Box>
