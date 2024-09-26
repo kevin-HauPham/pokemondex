@@ -213,8 +213,8 @@ export const DetailPage = () => {
                       <div>{pokemon?.weight || "Unknown"}</div>
                     </Grid>
                     <Grid item xs={6}>
-                      <Typography color="white">Height</Typography>
-                      <div>{pokemon?.category || "Unknown"}</div>
+                      <Typography color="white">category</Typography>
+                      <div>{pokemon?.evolution || "Unknown"}</div>
                     </Grid>
                     <Grid item xs={6}>
                       <Typography color="white">Abilities</Typography>
