@@ -116,9 +116,16 @@ const styles = {
 export default function PokeList() {
   const [expanded, setExpanded] = useState(false);
   const [next, setNext] = useState(false);
-  console.log("next", next);
   const dispatch = useDispatch();
   const { pokemons } = useSelector((state) => state.pokemons);
+  const { pokemonSearchingList } = useSelector(
+    (state) => state.pokemons.pokemonSearchingList
+  );
+  console.log(pokemonSearchingList);
+  const { isSearchingName } = useSelector(
+    (state) => state.pokemons.isSearchingName
+  );
+  console.log(isSearchingName);
   const handleChangePage = () => {
     dispatch(changePage());
   };
@@ -216,7 +223,7 @@ export default function PokeList() {
                   sm={6}
                   md={4}
                   lg={3}
-                  key={pokemon.name}
+                  key={pokemon.id}
                 >
                   <Card
                     component={Link}

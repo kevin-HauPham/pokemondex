@@ -4,19 +4,27 @@ import { POKEMONS_PER_PAGE } from "../../app/config";
 
 export const getPokemons = createAsyncThunk(
   "pokemons/getPokemons",
-  async ({ page, search, type }, { rejectWithValue }) => {
+  async ({ page, search, type, limit }, { rejectWithValue }) => {
     try {
-      let url = `/api/pokemons?page=${page}&limit=${POKEMONS_PER_PAGE}`;
+      let url = `/api/pokemons`;
+      if (page) url += `?page=${page}`;
+      if (limit) url += `&limit=${limit}`;
       if (search) url += `&search=${search}`;
       if (type) url += `&type=${type}`;
       const response = await apiService.get(url);
-      const timeout = () => {
-        return new Promise((resolve) => {
-          setTimeout(() => {
-            resolve("ok");
-          }, 1000);
-        });
-      };
+      return response.data;
+    } catch (error) {
+      return rejectWithValue(error);
+    }
+  }
+);
+
+export const getPokemonByName = createAsyncThunk(
+  "pokemons/getPokemonByName",
+  async (name, { rejectWithValue }) => {
+    try {
+      let url = `http://localhost:3000/api/pokemons/name?name=${name}`;
+      const response = await apiService.get(url);
       return response.data;
     } catch (error) {
       return rejectWithValue(error);
@@ -98,6 +106,8 @@ export const pokemonSlice = createSlice({
     search: "",
     types: "",
     page: 1,
+    isSearchingName: false,
+    pokemonSearchingList: [],
   },
   reducers: {
     changePage: (state, action) => {
@@ -116,6 +126,10 @@ export const pokemonSlice = createSlice({
   },
   extraReducers: {
     [getPokemons.pending]: (state, action) => {
+      state.isLoading = true;
+      state.errorMessage = "";
+    },
+    [getPokemonByName.pending]: (state, action) => {
       state.isLoading = true;
       state.errorMessage = "";
     },
@@ -145,6 +159,10 @@ export const pokemonSlice = createSlice({
         state.pokemons = [...state.pokemons, ...action.payload];
       }
     },
+    [getPokemonByName.fulfilled]: (state, action) => {
+      state.isLoading = false;
+      state.pokemonSearchingList = action.payload;
+    },
     [getPokemonById.fulfilled]: (state, action) => {
       state.isLoading = false;
       state.pokemon = action.payload;
@@ -159,6 +177,14 @@ export const pokemonSlice = createSlice({
       state.isLoading = true;
     },
     [getPokemons.rejected]: (state, action) => {
+      state.isLoading = false;
+      if (action.payload) {
+        state.errorMessage = action.payload.message;
+      } else {
+        state.errorMessage = action.error.message;
+      }
+    },
+    [getPokemonByName.rejected]: (state, action) => {
       state.isLoading = false;
       if (action.payload) {
         state.errorMessage = action.payload.message;
