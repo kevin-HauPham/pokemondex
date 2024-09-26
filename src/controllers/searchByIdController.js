@@ -10,11 +10,9 @@ function searchByIdController(req, res) {
   const totalPokemons = pokemonData.length;
 
   // Find the Pokémon with the given ID
-  const currentPokemon = pokemonData.find(
-    (pokemon) => pokemon.id === pokemonId
-  );
+  const pokemon = pokemonData.find((pokemon) => pokemon.id === pokemonId);
 
-  if (!currentPokemon) {
+  if (!pokemon) {
     return res
       .status(404)
       .json({ error: `Pokémon with ID ${pokemonId} not found.` });
@@ -27,13 +25,21 @@ function searchByIdController(req, res) {
   const previousPokemon = pokemonData.find(
     (pokemon) => pokemon.id === previousId
   );
+  console.log("pokemon", pokemon);
   const nextPokemon = pokemonData.find((pokemon) => pokemon.id === nextId);
 
   // Return the current Pokémon, and the previous and next Pokémon
+  const response = {
+    data: {
+      previousPokemon: previousPokemon || null, // Return null if no previous Pokémon
+      pokemon: pokemon, // The main Pokémon
+      nextPokemon: nextPokemon || null, // Return null if no next Pokémon
+    },
+
+    totalPokemons: totalPokemons, // Total number of Pokémon
+  };
   res.json({
-    previousPokemon: previousPokemon || null, // Return null if no previous Pokémon
-    currentPokemon: currentPokemon, // The main Pokémon
-    nextPokemon: nextPokemon || null, // Return null if no next Pokémon
+    response,
   });
 }
 module.exports = searchByIdController;

@@ -11,14 +11,17 @@ function routes(app) {
   });
 
   app.get("/api/pokemons/type", (req, res) => {
+    res.set("Access-Control-Allow-Origin", "*");
     searchByTypeController(req, res);
   });
 
   app.get("/api/pokemons/name", (req, res) => {
+    res.set("Access-Control-Allow-Origin", "*");
     searchByNameController(req, res);
   });
 
   app.get("/api/pokemons/:id", (req, res) => {
+    res.set("Access-Control-Allow-Origin", "*");
     searchByIdController(req, res);
   });
 

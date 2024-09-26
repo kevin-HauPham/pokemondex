@@ -7,6 +7,8 @@
         "Grass",
         "Poison"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "ivysaur",
       "url": "http://localhost:3000/images/bulbasaur.png"
     },
@@ -17,6 +19,8 @@
         "Grass",
         "Poison"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "venusaur",
       "url": "http://localhost:3000/images/ivysaur.png"
     },
@@ -27,6 +31,8 @@
         "Grass",
         "Poison"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/venusaur.png"
     },
@@ -36,6 +42,8 @@
       "types": [
         "Fire"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "charmeleon",
       "url": "http://localhost:3000/images/charmander.png"
     },
@@ -45,6 +53,8 @@
       "types": [
         "Fire"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "charizard",
       "url": "http://localhost:3000/images/charmeleon.png"
     },
@@ -55,6 +65,8 @@
         "Fire",
         "Flying"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/charizard.png"
     },
@@ -64,6 +76,8 @@
       "types": [
         "Water"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "wartortle",
       "url": "http://localhost:3000/images/squirtle.png"
     },
@@ -73,6 +87,8 @@
       "types": [
         "Water"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "blastoise",
       "url": "http://localhost:3000/images/wartortle.png"
     },
@@ -82,6 +98,8 @@
       "types": [
         "Water"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/blastoise.png"
     },
@@ -91,6 +109,8 @@
       "types": [
         "Bug"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "metapod",
       "url": "http://localhost:3000/images/caterpie.png"
     },
@@ -100,6 +120,8 @@
       "types": [
         "Bug"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "butterfree",
       "url": "http://localhost:3000/images/metapod.png"
     },
@@ -110,6 +132,8 @@
         "Bug",
         "Flying"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/butterfree.png"
     },
@@ -120,6 +144,8 @@
         "Bug",
         "Poison"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "kakuna",
       "url": "http://localhost:3000/images/weedle.png"
     },
@@ -130,6 +156,8 @@
         "Bug",
         "Poison"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "beedrill",
       "url": "http://localhost:3000/images/kakuna.png"
     },
@@ -140,6 +168,8 @@
         "Bug",
         "Poison"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/beedrill.png"
     },
@@ -150,6 +180,8 @@
         "Normal",
         "Flying"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "pidgeotto",
       "url": "http://localhost:3000/images/pidgey.png"
     },
@@ -160,6 +192,8 @@
         "Normal",
         "Flying"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "pidgeot",
       "url": "http://localhost:3000/images/pidgeotto.png"
     },
@@ -170,6 +204,8 @@
         "Normal",
         "Flying"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/pidgeot.png"
     },
@@ -179,6 +215,8 @@
       "types": [
         "Normal"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "raticate",
       "url": "http://localhost:3000/images/rattata.png"
     },
@@ -188,6 +226,8 @@
       "types": [
         "Normal"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/raticate.png"
     },
@@ -198,6 +238,8 @@
         "Normal",
         "Flying"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "fearow",
       "url": "http://localhost:3000/images/spearow.png"
     },
@@ -208,6 +250,8 @@
         "Normal",
         "Flying"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/fearow.png"
     },
@@ -217,6 +261,8 @@
       "types": [
         "Poison"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "arbok",
       "url": "http://localhost:3000/images/ekans.png"
     },
@@ -226,6 +272,8 @@
       "types": [
         "Poison"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/arbok.png"
     },
@@ -235,6 +283,8 @@
       "types": [
         "Electric"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "raichu",
       "url": "http://localhost:3000/images/pikachu.png"
     },
@@ -244,6 +294,8 @@
       "types": [
         "Electric"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/raichu.png"
     },
@@ -253,6 +305,8 @@
       "types": [
         "Ground"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "sandslash",
       "url": "http://localhost:3000/images/sandshrew.png"
     },
@@ -262,6 +316,8 @@
       "types": [
         "Ground"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/sandslash.png"
     },
@@ -271,6 +327,8 @@
       "types": [
         "Poison"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "nidorina",
       "url": "http://localhost:3000/images/nidoran-f.png"
     },
@@ -280,6 +338,8 @@
       "types": [
         "Poison"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "nidoqueen",
       "url": "http://localhost:3000/images/nidorina.png"
     },
@@ -290,6 +350,8 @@
         "Poison",
         "Ground"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/nidoqueen.png"
     },
@@ -299,6 +361,8 @@
       "types": [
         "Poison"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "nidorino",
       "url": "http://localhost:3000/images/nidoran-m.png"
     },
@@ -308,6 +372,8 @@
       "types": [
         "Poison"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "nidoking",
       "url": "http://localhost:3000/images/nidorino.png"
     },
@@ -318,6 +384,8 @@
         "Poison",
         "Ground"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/nidoking.png"
     },
@@ -327,6 +395,8 @@
       "types": [
         "Fairy"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "clefable",
       "url": "http://localhost:3000/images/clefairy.png"
     },
@@ -336,6 +406,8 @@
       "types": [
         "Fairy"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/clefable.png"
     },
@@ -345,6 +417,8 @@
       "types": [
         "Fire"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "ninetales",
       "url": "http://localhost:3000/images/vulpix.png"
     },
@@ -354,6 +428,8 @@
       "types": [
         "Fire"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/ninetales.png"
     },
@@ -364,6 +440,8 @@
         "Normal",
         "Fairy"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/jigglypuff.png"
     },
@@ -374,6 +452,8 @@
         "Normal",
         "Fairy"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/wigglytuff.png"
     },
@@ -384,6 +464,8 @@
         "Poison",
         "Flying"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/zubat.png"
     },
@@ -394,6 +476,8 @@
         "Poison",
         "Flying"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/golbat.png"
     },
@@ -404,6 +488,8 @@
         "Grass",
         "Poison"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/oddish.png"
     },
@@ -414,6 +500,8 @@
         "Grass",
         "Poison"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/gloom.png"
     },
@@ -424,6 +512,8 @@
         "Grass",
         "Poison"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/vileplume.png"
     },
@@ -434,6 +524,8 @@
         "Bug",
         "Grass"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/paras.png"
     },
@@ -444,6 +536,8 @@
         "Bug",
         "Grass"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/parasect.png"
     },
@@ -454,6 +548,8 @@
         "Bug",
         "Poison"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/venonat.png"
     },
@@ -464,6 +560,8 @@
         "Bug",
         "Poison"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/venomoth.png"
     },
@@ -473,6 +571,8 @@
       "types": [
         "Ground"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "dugtrio",
       "url": "http://localhost:3000/images/diglett.png"
     },
@@ -482,6 +582,8 @@
       "types": [
         "Ground"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/dugtrio.png"
     },
@@ -491,6 +593,8 @@
       "types": [
         "Normal"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "persian",
       "url": "http://localhost:3000/images/meowth.png"
     },
@@ -500,6 +604,8 @@
       "types": [
         "Normal"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/persian.png"
     },
@@ -509,6 +615,8 @@
       "types": [
         "Water"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "golduck",
       "url": "http://localhost:3000/images/psyduck.png"
     },
@@ -518,6 +626,8 @@
       "types": [
         "Water"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/golduck.png"
     },
@@ -527,6 +637,8 @@
       "types": [
         "Fighting"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "primeape",
       "url": "http://localhost:3000/images/mankey.png"
     },
@@ -536,6 +648,8 @@
       "types": [
         "Fighting"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/primeape.png"
     },
@@ -545,6 +659,8 @@
       "types": [
         "Fire"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "arcanine",
       "url": "http://localhost:3000/images/growlithe.png"
     },
@@ -554,6 +670,8 @@
       "types": [
         "Fire"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/arcanine.png"
     },
@@ -563,6 +681,8 @@
       "types": [
         "Water"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "poliwhirl",
       "url": "http://localhost:3000/images/poliwag.png"
     },
@@ -572,6 +692,8 @@
       "types": [
         "Water"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "poliwrath",
       "url": "http://localhost:3000/images/poliwhirl.png"
     },
@@ -582,6 +704,8 @@
         "Water",
         "Fighting"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/poliwrath.png"
     },
@@ -591,6 +715,8 @@
       "types": [
         "Psychic"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "kadabra",
       "url": "http://localhost:3000/images/abra.png"
     },
@@ -600,6 +726,8 @@
       "types": [
         "Psychic"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "alakazam",
       "url": "http://localhost:3000/images/kadabra.png"
     },
@@ -609,6 +737,8 @@
       "types": [
         "Psychic"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/alakazam.png"
     },
@@ -618,6 +748,8 @@
       "types": [
         "Fighting"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/machop.png"
     },
@@ -627,6 +759,8 @@
       "types": [
         "Fighting"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/machoke.png"
     },
@@ -636,6 +770,8 @@
       "types": [
         "Fighting"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/machamp.png"
     },
@@ -646,6 +782,8 @@
         "Grass",
         "Poison"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/bellsprout.png"
     },
@@ -656,6 +794,8 @@
         "Grass",
         "Poison"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/weepinbell.png"
     },
@@ -666,6 +806,8 @@
         "Grass",
         "Poison"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/victreebel.png"
     },
@@ -676,6 +818,8 @@
         "Water",
         "Poison"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/tentacool.png"
     },
@@ -686,6 +830,8 @@
         "Water",
         "Poison"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/tentacruel.png"
     },
@@ -696,6 +842,8 @@
         "Rock",
         "Ground"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/geodude.png"
     },
@@ -706,6 +854,8 @@
         "Rock",
         "Ground"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/graveler.png"
     },
@@ -716,6 +866,8 @@
         "Rock",
         "Ground"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/golem.png"
     },
@@ -725,6 +877,8 @@
       "types": [
         "Fire"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/ponyta.png"
     },
@@ -734,6 +888,8 @@
       "types": [
         "Fire"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/rapidash.png"
     },
@@ -744,6 +900,8 @@
         "Water",
         "Psychic"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/slowpoke.png"
     },
@@ -754,6 +912,8 @@
         "Water",
         "Psychic"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/slowbro.png"
     },
@@ -764,6 +924,8 @@
         "Electric",
         "Steel"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/magnemite.png"
     },
@@ -774,6 +936,8 @@
         "Electric",
         "Steel"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/magneton.png"
     },
@@ -784,6 +948,8 @@
         "Normal",
         "Flying"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/farfetchd.png"
     },
@@ -794,6 +960,8 @@
         "Normal",
         "Flying"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/doduo.png"
     },
@@ -804,6 +972,8 @@
         "Normal",
         "Flying"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/dodrio.png"
     },
@@ -813,6 +983,8 @@
       "types": [
         "Water"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/seel.png"
     },
@@ -823,6 +995,8 @@
         "Water",
         "Ice"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/dewgong.png"
     },
@@ -832,6 +1006,8 @@
       "types": [
         "Poison"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/grimer.png"
     },
@@ -841,6 +1017,8 @@
       "types": [
         "Poison"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/muk.png"
     },
@@ -850,6 +1028,8 @@
       "types": [
         "Water"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/shellder.png"
     },
@@ -860,6 +1040,8 @@
         "Water",
         "Ice"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/cloyster.png"
     },
@@ -870,6 +1052,8 @@
         "Ghost",
         "Poison"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/gastly.png"
     },
@@ -880,6 +1064,8 @@
         "Ghost",
         "Poison"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/haunter.png"
     },
@@ -890,6 +1076,8 @@
         "Ghost",
         "Poison"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/gengar.png"
     },
@@ -900,6 +1088,8 @@
         "Rock",
         "Ground"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/onix.png"
     },
@@ -909,6 +1099,8 @@
       "types": [
         "Psychic"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/drowzee.png"
     },
@@ -918,6 +1110,8 @@
       "types": [
         "Psychic"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/hypno.png"
     },
@@ -927,6 +1121,8 @@
       "types": [
         "Water"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/krabby.png"
     },
@@ -936,6 +1132,8 @@
       "types": [
         "Water"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/kingler.png"
     },
@@ -945,6 +1143,8 @@
       "types": [
         "Electric"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/voltorb.png"
     },
@@ -954,6 +1154,8 @@
       "types": [
         "Electric"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/electrode.png"
     },
@@ -964,6 +1166,8 @@
         "Grass",
         "Psychic"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/exeggcute.png"
     },
@@ -974,6 +1178,8 @@
         "Grass",
         "Psychic"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/exeggutor.png"
     },
@@ -983,6 +1189,8 @@
       "types": [
         "Ground"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/cubone.png"
     },
@@ -992,6 +1200,8 @@
       "types": [
         "Ground"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/marowak.png"
     },
@@ -1001,6 +1211,8 @@
       "types": [
         "Fighting"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/hitmonlee.png"
     },
@@ -1010,6 +1222,8 @@
       "types": [
         "Fighting"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/hitmonchan.png"
     },
@@ -1019,6 +1233,8 @@
       "types": [
         "Normal"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/lickitung.png"
     },
@@ -1028,6 +1244,8 @@
       "types": [
         "Poison"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/koffing.png"
     },
@@ -1037,6 +1255,8 @@
       "types": [
         "Poison"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/weezing.png"
     },
@@ -1047,6 +1267,8 @@
         "Ground",
         "Rock"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/rhyhorn.png"
     },
@@ -1057,6 +1279,8 @@
         "Ground",
         "Rock"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/rhydon.png"
     },
@@ -1066,6 +1290,8 @@
       "types": [
         "Normal"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/chansey.png"
     },
@@ -1075,6 +1301,8 @@
       "types": [
         "Grass"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/tangela.png"
     },
@@ -1084,6 +1312,8 @@
       "types": [
         "Normal"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/kangaskhan.png"
     },
@@ -1093,6 +1323,8 @@
       "types": [
         "Water"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/horsea.png"
     },
@@ -1102,6 +1334,8 @@
       "types": [
         "Water"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/seadra.png"
     },
@@ -1111,6 +1345,8 @@
       "types": [
         "Water"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/goldeen.png"
     },
@@ -1120,6 +1356,8 @@
       "types": [
         "Water"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/seaking.png"
     },
@@ -1129,6 +1367,8 @@
       "types": [
         "Water"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/staryu.png"
     },
@@ -1139,6 +1379,8 @@
         "Water",
         "Psychic"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/starmie.png"
     },
@@ -1149,6 +1391,8 @@
         "Psychic",
         "Fairy"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/mr-mime.png"
     },
@@ -1159,6 +1403,8 @@
         "Bug",
         "Flying"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/scyther.png"
     },
@@ -1169,6 +1415,8 @@
         "Ice",
         "Psychic"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/jynx.png"
     },
@@ -1178,6 +1426,8 @@
       "types": [
         "Electric"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/electabuzz.png"
     },
@@ -1187,6 +1437,8 @@
       "types": [
         "Fire"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/magmar.png"
     },
@@ -1196,6 +1448,8 @@
       "types": [
         "Bug"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/pinsir.png"
     },
@@ -1205,6 +1459,8 @@
       "types": [
         "Normal"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/tauros.png"
     },
@@ -1214,6 +1470,8 @@
       "types": [
         "Water"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/magikarp.png"
     },
@@ -1224,6 +1482,8 @@
         "Water",
         "Flying"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/gyarados.png"
     },
@@ -1234,6 +1494,8 @@
         "Water",
         "Ice"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/lapras.png"
     },
@@ -1243,6 +1505,8 @@
       "types": [
         "Normal"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/ditto.png"
     },
@@ -1252,6 +1516,8 @@
       "types": [
         "Normal"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/eevee.png"
     },
@@ -1261,6 +1527,8 @@
       "types": [
         "Water"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/vaporeon.png"
     },
@@ -1270,6 +1538,8 @@
       "types": [
         "Electric"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/jolteon.png"
     },
@@ -1279,6 +1549,8 @@
       "types": [
         "Fire"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/flareon.png"
     },
@@ -1288,6 +1560,8 @@
       "types": [
         "Normal"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/porygon.png"
     },
@@ -1298,6 +1572,8 @@
         "Rock",
         "Water"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/omanyte.png"
     },
@@ -1308,6 +1584,8 @@
         "Rock",
         "Water"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/omastar.png"
     },
@@ -1318,6 +1596,8 @@
         "Rock",
         "Water"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/kabuto.png"
     },
@@ -1328,6 +1608,8 @@
         "Rock",
         "Water"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/kabutops.png"
     },
@@ -1338,6 +1620,8 @@
         "Rock",
         "Flying"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/aerodactyl.png"
     },
@@ -1347,6 +1631,8 @@
       "types": [
         "Normal"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/snorlax.png"
     },
@@ -1357,6 +1643,8 @@
         "Ice",
         "Flying"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/articuno.png"
     },
@@ -1367,6 +1655,8 @@
         "Electric",
         "Flying"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/zapdos.png"
     },
@@ -1377,6 +1667,8 @@
         "Fire",
         "Flying"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/moltres.png"
     },
@@ -1386,6 +1678,8 @@
       "types": [
         "Dragon"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/dratini.png"
     },
@@ -1395,6 +1689,8 @@
       "types": [
         "Dragon"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/dragonair.png"
     },
@@ -1405,6 +1701,8 @@
         "Dragon",
         "Flying"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/dragonite.png"
     },
@@ -1414,6 +1712,8 @@
       "types": [
         "Psychic"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/mewtwo.png"
     },
@@ -1423,6 +1723,8 @@
       "types": [
         "Psychic"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/mew.png"
     },
@@ -1432,6 +1734,8 @@
       "types": [
         "Grass"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/chikorita.png"
     },
@@ -1441,6 +1745,8 @@
       "types": [
         "Grass"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/bayleef.png"
     },
@@ -1450,6 +1756,8 @@
       "types": [
         "Grass"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/meganium.png"
     },
@@ -1459,6 +1767,8 @@
       "types": [
         "Fire"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/cyndaquil.png"
     },
@@ -1468,6 +1778,8 @@
       "types": [
         "Fire"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/quilava.png"
     },
@@ -1477,6 +1789,8 @@
       "types": [
         "Fire"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/typhlosion.png"
     },
@@ -1486,6 +1800,8 @@
       "types": [
         "Water"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/totodile.png"
     },
@@ -1495,6 +1811,8 @@
       "types": [
         "Water"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/croconaw.png"
     },
@@ -1504,6 +1822,8 @@
       "types": [
         "Water"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/feraligatr.png"
     },
@@ -1513,6 +1833,8 @@
       "types": [
         "Normal"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/sentret.png"
     },
@@ -1522,6 +1844,8 @@
       "types": [
         "Normal"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/furret.png"
     },
@@ -1532,6 +1856,8 @@
         "Normal",
         "Flying"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/hoothoot.png"
     },
@@ -1542,6 +1868,8 @@
         "Normal",
         "Flying"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/noctowl.png"
     },
@@ -1552,6 +1880,8 @@
         "Bug",
         "Flying"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/ledyba.png"
     },
@@ -1562,6 +1892,8 @@
         "Bug",
         "Flying"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/ledian.png"
     },
@@ -1572,6 +1904,8 @@
         "Bug",
         "Poison"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/spinarak.png"
     },
@@ -1582,6 +1916,8 @@
         "Bug",
         "Poison"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/ariados.png"
     },
@@ -1592,6 +1928,8 @@
         "Poison",
         "Flying"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/crobat.png"
     },
@@ -1602,6 +1940,8 @@
         "Water",
         "Electric"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/chinchou.png"
     },
@@ -1612,6 +1952,8 @@
         "Water",
         "Electric"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/lanturn.png"
     },
@@ -1621,6 +1963,8 @@
       "types": [
         "Electric"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/pichu.png"
     },
@@ -1630,6 +1974,8 @@
       "types": [
         "Fairy"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/cleffa.png"
     },
@@ -1640,6 +1986,8 @@
         "Normal",
         "Fairy"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/igglybuff.png"
     },
@@ -1649,6 +1997,8 @@
       "types": [
         "Fairy"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/togepi.png"
     },
@@ -1659,6 +2009,8 @@
         "Fairy",
         "Flying"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/togetic.png"
     },
@@ -1669,6 +2021,8 @@
         "Psychic",
         "Flying"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/natu.png"
     },
@@ -1679,6 +2033,8 @@
         "Psychic",
         "Flying"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/xatu.png"
     },
@@ -1688,6 +2044,8 @@
       "types": [
         "Electric"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/mareep.png"
     },
@@ -1697,6 +2055,8 @@
       "types": [
         "Electric"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/flaaffy.png"
     },
@@ -1706,6 +2066,8 @@
       "types": [
         "Electric"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/ampharos.png"
     },
@@ -1715,6 +2077,8 @@
       "types": [
         "Grass"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/bellossom.png"
     },
@@ -1725,6 +2089,8 @@
         "Water",
         "Fairy"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/marill.png"
     },
@@ -1735,6 +2101,8 @@
         "Water",
         "Fairy"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/azumarill.png"
     },
@@ -1744,6 +2112,8 @@
       "types": [
         "Rock"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/sudowoodo.png"
     },
@@ -1753,6 +2123,8 @@
       "types": [
         "Water"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/politoed.png"
     },
@@ -1763,6 +2135,8 @@
         "Grass",
         "Flying"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/hoppip.png"
     },
@@ -1773,6 +2147,8 @@
         "Grass",
         "Flying"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/skiploom.png"
     },
@@ -1783,6 +2159,8 @@
         "Grass",
         "Flying"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/jumpluff.png"
     },
@@ -1792,6 +2170,8 @@
       "types": [
         "Normal"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/aipom.png"
     },
@@ -1801,6 +2181,8 @@
       "types": [
         "Grass"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/sunkern.png"
     },
@@ -1810,6 +2192,8 @@
       "types": [
         "Grass"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/sunflora.png"
     },
@@ -1820,6 +2204,8 @@
         "Bug",
         "Flying"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/yanma.png"
     },
@@ -1830,6 +2216,8 @@
         "Water",
         "Ground"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/wooper.png"
     },
@@ -1840,6 +2228,8 @@
         "Water",
         "Ground"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/quagsire.png"
     },
@@ -1849,6 +2239,8 @@
       "types": [
         "Psychic"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/espeon.png"
     },
@@ -1858,6 +2250,8 @@
       "types": [
         "Dark"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/umbreon.png"
     },
@@ -1868,6 +2262,8 @@
         "Dark",
         "Flying"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/murkrow.png"
     },
@@ -1878,6 +2274,8 @@
         "Water",
         "Psychic"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/slowking.png"
     },
@@ -1887,6 +2285,8 @@
       "types": [
         "Ghost"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/misdreavus.png"
     },
@@ -1896,6 +2296,8 @@
       "types": [
         "Psychic"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/unown.png"
     },
@@ -1905,6 +2307,8 @@
       "types": [
         "Psychic"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/wobbuffet.png"
     },
@@ -1915,6 +2319,8 @@
         "Normal",
         "Psychic"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/girafarig.png"
     },
@@ -1924,6 +2330,8 @@
       "types": [
         "Bug"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/pineco.png"
     },
@@ -1934,6 +2342,8 @@
         "Bug",
         "Steel"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/forretress.png"
     },
@@ -1943,6 +2353,8 @@
       "types": [
         "Normal"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/dunsparce.png"
     },
@@ -1953,6 +2365,8 @@
         "Ground",
         "Flying"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/gligar.png"
     },
@@ -1963,6 +2377,8 @@
         "Steel",
         "Ground"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/steelix.png"
     },
@@ -1972,6 +2388,8 @@
       "types": [
         "Fairy"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/snubbull.png"
     },
@@ -1981,6 +2399,8 @@
       "types": [
         "Fairy"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/granbull.png"
     },
@@ -1991,6 +2411,8 @@
         "Water",
         "Poison"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/qwilfish.png"
     },
@@ -2001,6 +2423,8 @@
         "Bug",
         "Steel"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/scizor.png"
     },
@@ -2011,6 +2435,8 @@
         "Bug",
         "Rock"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/shuckle.png"
     },
@@ -2021,6 +2447,8 @@
         "Bug",
         "Fighting"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/heracross.png"
     },
@@ -2031,6 +2459,8 @@
         "Dark",
         "Ice"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/sneasel.png"
     },
@@ -2040,6 +2470,8 @@
       "types": [
         "Normal"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/teddiursa.png"
     },
@@ -2049,6 +2481,8 @@
       "types": [
         "Normal"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/ursaring.png"
     },
@@ -2058,6 +2492,8 @@
       "types": [
         "Fire"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/slugma.png"
     },
@@ -2068,6 +2504,8 @@
         "Fire",
         "Rock"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/magcargo.png"
     },
@@ -2078,6 +2516,8 @@
         "Ice",
         "Ground"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/swinub.png"
     },
@@ -2088,6 +2528,8 @@
         "Ice",
         "Ground"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/piloswine.png"
     },
@@ -2098,6 +2540,8 @@
         "Water",
         "Rock"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/corsola.png"
     },
@@ -2107,6 +2551,8 @@
       "types": [
         "Water"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/remoraid.png"
     },
@@ -2116,6 +2562,8 @@
       "types": [
         "Water"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/octillery.png"
     },
@@ -2126,6 +2574,8 @@
         "Ice",
         "Flying"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/delibird.png"
     },
@@ -2136,6 +2586,8 @@
         "Water",
         "Flying"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/mantine.png"
     },
@@ -2146,6 +2598,8 @@
         "Steel",
         "Flying"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/skarmory.png"
     },
@@ -2156,6 +2610,8 @@
         "Dark",
         "Fire"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/houndour.png"
     },
@@ -2166,6 +2622,8 @@
         "Dark",
         "Fire"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/houndoom.png"
     },
@@ -2176,6 +2634,8 @@
         "Water",
         "Dragon"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/kingdra.png"
     },
@@ -2185,6 +2645,8 @@
       "types": [
         "Ground"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/phanpy.png"
     },
@@ -2194,6 +2656,8 @@
       "types": [
         "Ground"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/donphan.png"
     },
@@ -2203,6 +2667,8 @@
       "types": [
         "Normal"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/porygon2.png"
     },
@@ -2212,6 +2678,8 @@
       "types": [
         "Normal"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/stantler.png"
     },
@@ -2221,6 +2689,8 @@
       "types": [
         "Normal"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/smeargle.png"
     },
@@ -2230,6 +2700,8 @@
       "types": [
         "Fighting"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/tyrogue.png"
     },
@@ -2239,6 +2711,8 @@
       "types": [
         "Fighting"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/hitmontop.png"
     },
@@ -2249,6 +2723,8 @@
         "Ice",
         "Psychic"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/smoochum.png"
     },
@@ -2258,6 +2734,8 @@
       "types": [
         "Electric"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/elekid.png"
     },
@@ -2267,6 +2745,8 @@
       "types": [
         "Fire"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/magby.png"
     },
@@ -2276,6 +2756,8 @@
       "types": [
         "Normal"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/miltank.png"
     },
@@ -2285,6 +2767,8 @@
       "types": [
         "Normal"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/blissey.png"
     },
@@ -2294,6 +2778,8 @@
       "types": [
         "Electric"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/raikou.png"
     },
@@ -2303,6 +2789,8 @@
       "types": [
         "Fire"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/entei.png"
     },
@@ -2312,6 +2800,8 @@
       "types": [
         "Water"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/suicune.png"
     },
@@ -2322,6 +2812,8 @@
         "Rock",
         "Ground"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/larvitar.png"
     },
@@ -2332,6 +2824,8 @@
         "Rock",
         "Ground"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/pupitar.png"
     },
@@ -2342,6 +2836,8 @@
         "Rock",
         "Dark"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/tyranitar.png"
     },
@@ -2352,6 +2848,8 @@
         "Psychic",
         "Flying"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/lugia.png"
     },
@@ -2362,6 +2860,8 @@
         "Fire",
         "Flying"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/ho-oh.png"
     },
@@ -2372,6 +2872,8 @@
         "Psychic",
         "Grass"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/celebi.png"
     },
@@ -2381,6 +2883,8 @@
       "types": [
         "Grass"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/treecko.png"
     },
@@ -2390,6 +2894,8 @@
       "types": [
         "Grass"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/grovyle.png"
     },
@@ -2399,6 +2905,8 @@
       "types": [
         "Grass"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/sceptile.png"
     },
@@ -2408,6 +2916,8 @@
       "types": [
         "Fire"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/torchic.png"
     },
@@ -2418,6 +2928,8 @@
         "Fire",
         "Fighting"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/combusken.png"
     },
@@ -2428,6 +2940,8 @@
         "Fire",
         "Fighting"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/blaziken.png"
     },
@@ -2437,6 +2951,8 @@
       "types": [
         "Water"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/mudkip.png"
     },
@@ -2447,6 +2963,8 @@
         "Water",
         "Ground"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/marshtomp.png"
     },
@@ -2457,6 +2975,8 @@
         "Water",
         "Ground"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/swampert.png"
     },
@@ -2466,6 +2986,8 @@
       "types": [
         "Dark"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/poochyena.png"
     },
@@ -2475,6 +2997,8 @@
       "types": [
         "Dark"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/mightyena.png"
     },
@@ -2484,6 +3008,8 @@
       "types": [
         "Normal"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/zigzagoon.png"
     },
@@ -2493,6 +3019,8 @@
       "types": [
         "Normal"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/linoone.png"
     },
@@ -2502,6 +3030,8 @@
       "types": [
         "Bug"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/wurmple.png"
     },
@@ -2511,6 +3041,8 @@
       "types": [
         "Bug"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/silcoon.png"
     },
@@ -2521,6 +3053,8 @@
         "Bug",
         "Flying"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/beautifly.png"
     },
@@ -2530,6 +3064,8 @@
       "types": [
         "Bug"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/cascoon.png"
     },
@@ -2540,6 +3076,8 @@
         "Bug",
         "Poison"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/dustox.png"
     },
@@ -2550,6 +3088,8 @@
         "Water",
         "Grass"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/lotad.png"
     },
@@ -2560,6 +3100,8 @@
         "Water",
         "Grass"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/lombre.png"
     },
@@ -2570,6 +3112,8 @@
         "Water",
         "Grass"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/ludicolo.png"
     },
@@ -2579,6 +3123,8 @@
       "types": [
         "Grass"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/seedot.png"
     },
@@ -2589,6 +3135,8 @@
         "Grass",
         "Dark"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/nuzleaf.png"
     },
@@ -2599,6 +3147,8 @@
         "Grass",
         "Dark"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/shiftry.png"
     },
@@ -2609,6 +3159,8 @@
         "Normal",
         "Flying"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/taillow.png"
     },
@@ -2619,6 +3171,8 @@
         "Normal",
         "Flying"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/swellow.png"
     },
@@ -2629,6 +3183,8 @@
         "Water",
         "Flying"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/wingull.png"
     },
@@ -2639,6 +3195,8 @@
         "Water",
         "Flying"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/pelipper.png"
     },
@@ -2649,6 +3207,8 @@
         "Psychic",
         "Fairy"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/ralts.png"
     },
@@ -2659,6 +3219,8 @@
         "Psychic",
         "Fairy"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/kirlia.png"
     },
@@ -2669,6 +3231,8 @@
         "Psychic",
         "Fairy"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/gardevoir.png"
     },
@@ -2679,6 +3243,8 @@
         "Bug",
         "Water"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/surskit.png"
     },
@@ -2689,6 +3255,8 @@
         "Bug",
         "Flying"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/masquerain.png"
     },
@@ -2698,6 +3266,8 @@
       "types": [
         "Grass"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/shroomish.png"
     },
@@ -2708,6 +3278,8 @@
         "Grass",
         "Fighting"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/breloom.png"
     },
@@ -2717,6 +3289,8 @@
       "types": [
         "Normal"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/slakoth.png"
     },
@@ -2726,6 +3300,8 @@
       "types": [
         "Normal"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/vigoroth.png"
     },
@@ -2735,6 +3311,8 @@
       "types": [
         "Normal"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/slaking.png"
     },
@@ -2745,6 +3323,8 @@
         "Bug",
         "Ground"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/nincada.png"
     },
@@ -2755,6 +3335,8 @@
         "Bug",
         "Flying"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/ninjask.png"
     },
@@ -2765,6 +3347,8 @@
         "Bug",
         "Ghost"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/shedinja.png"
     },
@@ -2774,6 +3358,8 @@
       "types": [
         "Normal"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/whismur.png"
     },
@@ -2783,6 +3369,8 @@
       "types": [
         "Normal"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/loudred.png"
     },
@@ -2792,6 +3380,8 @@
       "types": [
         "Normal"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/exploud.png"
     },
@@ -2801,6 +3391,8 @@
       "types": [
         "Fighting"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/makuhita.png"
     },
@@ -2810,6 +3402,8 @@
       "types": [
         "Fighting"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/hariyama.png"
     },
@@ -2820,6 +3414,8 @@
         "Normal",
         "Fairy"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/azurill.png"
     },
@@ -2829,6 +3425,8 @@
       "types": [
         "Rock"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/nosepass.png"
     },
@@ -2838,6 +3436,8 @@
       "types": [
         "Normal"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/skitty.png"
     },
@@ -2847,6 +3447,8 @@
       "types": [
         "Normal"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/delcatty.png"
     },
@@ -2857,6 +3459,8 @@
         "Dark",
         "Ghost"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/sableye.png"
     },
@@ -2867,6 +3471,8 @@
         "Steel",
         "Fairy"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/mawile.png"
     },
@@ -2877,6 +3483,8 @@
         "Steel",
         "Rock"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/aron.png"
     },
@@ -2887,6 +3495,8 @@
         "Steel",
         "Rock"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/lairon.png"
     },
@@ -2897,6 +3507,8 @@
         "Steel",
         "Rock"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/aggron.png"
     },
@@ -2907,6 +3519,8 @@
         "Fighting",
         "Psychic"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/meditite.png"
     },
@@ -2917,6 +3531,8 @@
         "Fighting",
         "Psychic"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/medicham.png"
     },
@@ -2926,6 +3542,8 @@
       "types": [
         "Electric"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/electrike.png"
     },
@@ -2935,6 +3553,8 @@
       "types": [
         "Electric"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/manectric.png"
     },
@@ -2944,6 +3564,8 @@
       "types": [
         "Electric"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/plusle.png"
     },
@@ -2953,6 +3575,8 @@
       "types": [
         "Electric"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/minun.png"
     },
@@ -2962,6 +3586,8 @@
       "types": [
         "Bug"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/volbeat.png"
     },
@@ -2971,6 +3597,8 @@
       "types": [
         "Bug"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/illumise.png"
     },
@@ -2981,6 +3609,8 @@
         "Grass",
         "Poison"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/roselia.png"
     },
@@ -2990,6 +3620,8 @@
       "types": [
         "Poison"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/gulpin.png"
     },
@@ -2999,6 +3631,8 @@
       "types": [
         "Poison"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/swalot.png"
     },
@@ -3009,6 +3643,8 @@
         "Water",
         "Dark"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/carvanha.png"
     },
@@ -3019,6 +3655,8 @@
         "Water",
         "Dark"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/sharpedo.png"
     },
@@ -3028,6 +3666,8 @@
       "types": [
         "Water"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/wailmer.png"
     },
@@ -3037,6 +3677,8 @@
       "types": [
         "Water"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/wailord.png"
     },
@@ -3047,6 +3689,8 @@
         "Fire",
         "Ground"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/numel.png"
     },
@@ -3057,6 +3701,8 @@
         "Fire",
         "Ground"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/camerupt.png"
     },
@@ -3066,6 +3712,8 @@
       "types": [
         "Fire"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/torkoal.png"
     },
@@ -3075,6 +3723,8 @@
       "types": [
         "Psychic"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/spoink.png"
     },
@@ -3084,6 +3734,8 @@
       "types": [
         "Psychic"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/grumpig.png"
     },
@@ -3093,6 +3745,8 @@
       "types": [
         "Normal"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/spinda.png"
     },
@@ -3102,6 +3756,8 @@
       "types": [
         "Ground"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/trapinch.png"
     },
@@ -3112,6 +3768,8 @@
         "Ground",
         "Dragon"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/vibrava.png"
     },
@@ -3122,6 +3780,8 @@
         "Ground",
         "Dragon"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/flygon.png"
     },
@@ -3131,6 +3791,8 @@
       "types": [
         "Grass"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/cacnea.png"
     },
@@ -3141,6 +3803,8 @@
         "Grass",
         "Dark"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/cacturne.png"
     },
@@ -3151,6 +3815,8 @@
         "Normal",
         "Flying"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/swablu.png"
     },
@@ -3161,6 +3827,8 @@
         "Dragon",
         "Flying"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/altaria.png"
     },
@@ -3170,6 +3838,8 @@
       "types": [
         "Normal"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/zangoose.png"
     },
@@ -3179,6 +3849,8 @@
       "types": [
         "Poison"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/seviper.png"
     },
@@ -3189,6 +3861,8 @@
         "Rock",
         "Psychic"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/lunatone.png"
     },
@@ -3199,6 +3873,8 @@
         "Rock",
         "Psychic"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/solrock.png"
     },
@@ -3209,6 +3885,8 @@
         "Water",
         "Ground"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/barboach.png"
     },
@@ -3219,6 +3897,8 @@
         "Water",
         "Ground"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/whiscash.png"
     },
@@ -3228,6 +3908,8 @@
       "types": [
         "Water"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/corphish.png"
     },
@@ -3238,6 +3920,8 @@
         "Water",
         "Dark"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/crawdaunt.png"
     },
@@ -3248,6 +3932,8 @@
         "Ground",
         "Psychic"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/baltoy.png"
     },
@@ -3258,6 +3944,8 @@
         "Ground",
         "Psychic"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/claydol.png"
     },
@@ -3268,6 +3956,8 @@
         "Rock",
         "Grass"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/lileep.png"
     },
@@ -3278,6 +3968,8 @@
         "Rock",
         "Grass"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/cradily.png"
     },
@@ -3288,6 +3980,8 @@
         "Rock",
         "Bug"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/anorith.png"
     },
@@ -3298,6 +3992,8 @@
         "Rock",
         "Bug"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/armaldo.png"
     },
@@ -3307,6 +4003,8 @@
       "types": [
         "Water"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/feebas.png"
     },
@@ -3316,6 +4014,8 @@
       "types": [
         "Water"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/milotic.png"
     },
@@ -3325,6 +4025,8 @@
       "types": [
         "Normal"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/castform.png"
     },
@@ -3334,6 +4036,8 @@
       "types": [
         "Normal"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/kecleon.png"
     },
@@ -3343,6 +4047,8 @@
       "types": [
         "Ghost"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/shuppet.png"
     },
@@ -3352,6 +4058,8 @@
       "types": [
         "Ghost"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/banette.png"
     },
@@ -3361,6 +4069,8 @@
       "types": [
         "Ghost"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/duskull.png"
     },
@@ -3370,6 +4080,8 @@
       "types": [
         "Ghost"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/dusclops.png"
     },
@@ -3380,6 +4092,8 @@
         "Grass",
         "Flying"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/tropius.png"
     },
@@ -3389,6 +4103,8 @@
       "types": [
         "Psychic"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/chimecho.png"
     },
@@ -3398,6 +4114,8 @@
       "types": [
         "Dark"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/absol.png"
     },
@@ -3407,6 +4125,8 @@
       "types": [
         "Psychic"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/wynaut.png"
     },
@@ -3416,6 +4136,8 @@
       "types": [
         "Ice"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/snorunt.png"
     },
@@ -3425,6 +4147,8 @@
       "types": [
         "Ice"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/glalie.png"
     },
@@ -3435,6 +4159,8 @@
         "Ice",
         "Water"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/spheal.png"
     },
@@ -3445,6 +4171,8 @@
         "Ice",
         "Water"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/sealeo.png"
     },
@@ -3455,6 +4183,8 @@
         "Ice",
         "Water"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/walrein.png"
     },
@@ -3464,6 +4194,8 @@
       "types": [
         "Water"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/clamperl.png"
     },
@@ -3473,6 +4205,8 @@
       "types": [
         "Water"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/huntail.png"
     },
@@ -3482,6 +4216,8 @@
       "types": [
         "Water"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/gorebyss.png"
     },
@@ -3492,6 +4228,8 @@
         "Water",
         "Rock"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/relicanth.png"
     },
@@ -3501,6 +4239,8 @@
       "types": [
         "Water"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/luvdisc.png"
     },
@@ -3510,6 +4250,8 @@
       "types": [
         "Dragon"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/bagon.png"
     },
@@ -3519,6 +4261,8 @@
       "types": [
         "Dragon"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/shelgon.png"
     },
@@ -3529,6 +4273,8 @@
         "Dragon",
         "Flying"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/salamence.png"
     },
@@ -3539,6 +4285,8 @@
         "Steel",
         "Psychic"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/beldum.png"
     },
@@ -3549,6 +4297,8 @@
         "Steel",
         "Psychic"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/metang.png"
     },
@@ -3559,6 +4309,8 @@
         "Steel",
         "Psychic"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/metagross.png"
     },
@@ -3568,6 +4320,8 @@
       "types": [
         "Rock"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/regirock.png"
     },
@@ -3577,6 +4331,8 @@
       "types": [
         "Ice"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/regice.png"
     },
@@ -3586,6 +4342,8 @@
       "types": [
         "Steel"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/registeel.png"
     },
@@ -3596,6 +4354,8 @@
         "Dragon",
         "Psychic"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/latias.png"
     },
@@ -3606,6 +4366,8 @@
         "Dragon",
         "Psychic"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/latios.png"
     },
@@ -3615,6 +4377,8 @@
       "types": [
         "Water"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/kyogre.png"
     },
@@ -3624,6 +4388,8 @@
       "types": [
         "Ground"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/groudon.png"
     },
@@ -3634,6 +4400,8 @@
         "Dragon",
         "Flying"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/rayquaza.png"
     },
@@ -3644,6 +4412,8 @@
         "Steel",
         "Psychic"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/jirachi.png"
     },
@@ -3653,6 +4423,8 @@
       "types": [
         "Psychic"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/deoxys-normal.png"
     },
@@ -3662,6 +4434,8 @@
       "types": [
         "Grass"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/turtwig.png"
     },
@@ -3671,6 +4445,8 @@
       "types": [
         "Grass"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/grotle.png"
     },
@@ -3681,6 +4457,8 @@
         "Grass",
         "Ground"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/torterra.png"
     },
@@ -3690,6 +4468,8 @@
       "types": [
         "Fire"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/chimchar.png"
     },
@@ -3700,6 +4480,8 @@
         "Fire",
         "Fighting"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/monferno.png"
     },
@@ -3710,6 +4492,8 @@
         "Fire",
         "Fighting"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/infernape.png"
     },
@@ -3719,6 +4503,8 @@
       "types": [
         "Water"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/piplup.png"
     },
@@ -3728,6 +4514,8 @@
       "types": [
         "Water"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/prinplup.png"
     },
@@ -3738,6 +4526,8 @@
         "Water",
         "Steel"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/empoleon.png"
     },
@@ -3748,6 +4538,8 @@
         "Normal",
         "Flying"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/starly.png"
     },
@@ -3758,6 +4550,8 @@
         "Normal",
         "Flying"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/staravia.png"
     },
@@ -3768,6 +4562,8 @@
         "Normal",
         "Flying"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/staraptor.png"
     },
@@ -3777,6 +4573,8 @@
       "types": [
         "Normal"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/bidoof.png"
     },
@@ -3787,6 +4585,8 @@
         "Normal",
         "Water"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/bibarel.png"
     },
@@ -3796,6 +4596,8 @@
       "types": [
         "Bug"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/kricketot.png"
     },
@@ -3805,6 +4607,8 @@
       "types": [
         "Bug"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/kricketune.png"
     },
@@ -3814,6 +4618,8 @@
       "types": [
         "Electric"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/shinx.png"
     },
@@ -3823,6 +4629,8 @@
       "types": [
         "Electric"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/luxio.png"
     },
@@ -3832,6 +4640,8 @@
       "types": [
         "Electric"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/luxray.png"
     },
@@ -3842,6 +4652,8 @@
         "Grass",
         "Poison"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/budew.png"
     },
@@ -3852,6 +4664,8 @@
         "Grass",
         "Poison"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/roserade.png"
     },
@@ -3861,6 +4675,8 @@
       "types": [
         "Rock"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/cranidos.png"
     },
@@ -3870,6 +4686,8 @@
       "types": [
         "Rock"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/rampardos.png"
     },
@@ -3880,6 +4698,8 @@
         "Rock",
         "Steel"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/shieldon.png"
     },
@@ -3890,6 +4710,8 @@
         "Rock",
         "Steel"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/bastiodon.png"
     },
@@ -3899,6 +4721,8 @@
       "types": [
         "Bug"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/burmy.png"
     },
@@ -3909,6 +4733,8 @@
         "Bug",
         "Grass"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/wormadam-plant.png"
     },
@@ -3919,6 +4745,8 @@
         "Bug",
         "Flying"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/mothim.png"
     },
@@ -3929,6 +4757,8 @@
         "Bug",
         "Flying"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/combee.png"
     },
@@ -3939,6 +4769,8 @@
         "Bug",
         "Flying"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/vespiquen.png"
     },
@@ -3948,6 +4780,8 @@
       "types": [
         "Electric"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/pachirisu.png"
     },
@@ -3957,6 +4791,8 @@
       "types": [
         "Water"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/buizel.png"
     },
@@ -3966,6 +4802,8 @@
       "types": [
         "Water"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/floatzel.png"
     },
@@ -3975,6 +4813,8 @@
       "types": [
         "Grass"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/cherubi.png"
     },
@@ -3984,6 +4824,8 @@
       "types": [
         "Grass"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/cherrim.png"
     },
@@ -3993,6 +4835,8 @@
       "types": [
         "Water"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/shellos.png"
     },
@@ -4003,6 +4847,8 @@
         "Water",
         "Ground"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/gastrodon.png"
     },
@@ -4012,6 +4858,8 @@
       "types": [
         "Normal"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/ambipom.png"
     },
@@ -4022,6 +4870,8 @@
         "Ghost",
         "Flying"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/drifloon.png"
     },
@@ -4032,6 +4882,8 @@
         "Ghost",
         "Flying"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/drifblim.png"
     },
@@ -4041,6 +4893,8 @@
       "types": [
         "Normal"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/buneary.png"
     },
@@ -4050,6 +4904,8 @@
       "types": [
         "Normal"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/lopunny.png"
     },
@@ -4059,6 +4915,8 @@
       "types": [
         "Ghost"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/mismagius.png"
     },
@@ -4069,6 +4927,8 @@
         "Dark",
         "Flying"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/honchkrow.png"
     },
@@ -4078,6 +4938,8 @@
       "types": [
         "Normal"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/glameow.png"
     },
@@ -4087,6 +4949,8 @@
       "types": [
         "Normal"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/purugly.png"
     },
@@ -4096,6 +4960,8 @@
       "types": [
         "Psychic"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/chingling.png"
     },
@@ -4106,6 +4972,8 @@
         "Poison",
         "Dark"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/stunky.png"
     },
@@ -4116,6 +4984,8 @@
         "Poison",
         "Dark"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/skuntank.png"
     },
@@ -4126,6 +4996,8 @@
         "Steel",
         "Psychic"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/bronzor.png"
     },
@@ -4136,6 +5008,8 @@
         "Steel",
         "Psychic"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/bronzong.png"
     },
@@ -4145,6 +5019,8 @@
       "types": [
         "Rock"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/bonsly.png"
     },
@@ -4155,6 +5031,8 @@
         "Psychic",
         "Fairy"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/mime-jr.png"
     },
@@ -4164,6 +5042,8 @@
       "types": [
         "Normal"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/happiny.png"
     },
@@ -4174,6 +5054,8 @@
         "Normal",
         "Flying"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/chatot.png"
     },
@@ -4184,6 +5066,8 @@
         "Ghost",
         "Dark"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/spiritomb.png"
     },
@@ -4194,6 +5078,8 @@
         "Dragon",
         "Ground"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/gible.png"
     },
@@ -4204,6 +5090,8 @@
         "Dragon",
         "Ground"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/gabite.png"
     },
@@ -4214,6 +5102,8 @@
         "Dragon",
         "Ground"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/garchomp.png"
     },
@@ -4223,6 +5113,8 @@
       "types": [
         "Normal"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/munchlax.png"
     },
@@ -4232,6 +5124,8 @@
       "types": [
         "Fighting"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/riolu.png"
     },
@@ -4242,6 +5136,8 @@
         "Fighting",
         "Steel"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/lucario.png"
     },
@@ -4251,6 +5147,8 @@
       "types": [
         "Ground"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/hippopotas.png"
     },
@@ -4260,6 +5158,8 @@
       "types": [
         "Ground"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/hippowdon.png"
     },
@@ -4270,6 +5170,8 @@
         "Poison",
         "Bug"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/skorupi.png"
     },
@@ -4280,6 +5182,8 @@
         "Poison",
         "Dark"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/drapion.png"
     },
@@ -4290,6 +5194,8 @@
         "Poison",
         "Fighting"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/croagunk.png"
     },
@@ -4300,6 +5206,8 @@
         "Poison",
         "Fighting"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/toxicroak.png"
     },
@@ -4309,6 +5217,8 @@
       "types": [
         "Grass"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/carnivine.png"
     },
@@ -4318,6 +5228,8 @@
       "types": [
         "Water"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/finneon.png"
     },
@@ -4327,6 +5239,8 @@
       "types": [
         "Water"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/lumineon.png"
     },
@@ -4337,6 +5251,8 @@
         "Water",
         "Flying"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/mantyke.png"
     },
@@ -4347,6 +5263,8 @@
         "Grass",
         "Ice"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/snover.png"
     },
@@ -4357,6 +5275,8 @@
         "Grass",
         "Ice"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/abomasnow.png"
     },
@@ -4367,6 +5287,8 @@
         "Dark",
         "Ice"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/weavile.png"
     },
@@ -4377,6 +5299,8 @@
         "Electric",
         "Steel"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/magnezone.png"
     },
@@ -4386,6 +5310,8 @@
       "types": [
         "Normal"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/lickilicky.png"
     },
@@ -4396,6 +5322,8 @@
         "Ground",
         "Rock"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/rhyperior.png"
     },
@@ -4405,6 +5333,8 @@
       "types": [
         "Grass"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/tangrowth.png"
     },
@@ -4414,6 +5344,8 @@
       "types": [
         "Electric"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/electivire.png"
     },
@@ -4423,6 +5355,8 @@
       "types": [
         "Fire"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/magmortar.png"
     },
@@ -4433,6 +5367,8 @@
         "Fairy",
         "Flying"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/togekiss.png"
     },
@@ -4443,6 +5379,8 @@
         "Bug",
         "Flying"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/yanmega.png"
     },
@@ -4452,6 +5390,8 @@
       "types": [
         "Grass"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/leafeon.png"
     },
@@ -4461,6 +5401,8 @@
       "types": [
         "Ice"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/glaceon.png"
     },
@@ -4471,6 +5413,8 @@
         "Ground",
         "Flying"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/gliscor.png"
     },
@@ -4481,6 +5425,8 @@
         "Ice",
         "Ground"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/mamoswine.png"
     },
@@ -4490,6 +5436,8 @@
       "types": [
         "Normal"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/porygon-z.png"
     },
@@ -4500,6 +5448,8 @@
         "Psychic",
         "Fighting"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/gallade.png"
     },
@@ -4510,6 +5460,8 @@
         "Rock",
         "Steel"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/probopass.png"
     },
@@ -4519,6 +5471,8 @@
       "types": [
         "Ghost"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/dusknoir.png"
     },
@@ -4529,6 +5483,8 @@
         "Ice",
         "Ghost"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/froslass.png"
     },
@@ -4539,6 +5495,8 @@
         "Electric",
         "Ghost"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/rotom.png"
     },
@@ -4548,6 +5506,8 @@
       "types": [
         "Psychic"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/uxie.png"
     },
@@ -4557,6 +5517,8 @@
       "types": [
         "Psychic"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/mesprit.png"
     },
@@ -4566,6 +5528,8 @@
       "types": [
         "Psychic"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/azelf.png"
     },
@@ -4576,6 +5540,8 @@
         "Steel",
         "Dragon"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/dialga.png"
     },
@@ -4586,6 +5552,8 @@
         "Water",
         "Dragon"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/palkia.png"
     },
@@ -4596,6 +5564,8 @@
         "Fire",
         "Steel"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/heatran.png"
     },
@@ -4605,6 +5575,8 @@
       "types": [
         "Normal"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/regigigas.png"
     },
@@ -4615,6 +5587,8 @@
         "Ghost",
         "Dragon"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/giratina-altered.png"
     },
@@ -4624,6 +5598,8 @@
       "types": [
         "Psychic"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/cresselia.png"
     },
@@ -4633,6 +5609,8 @@
       "types": [
         "Water"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/phione.png"
     },
@@ -4642,6 +5620,8 @@
       "types": [
         "Water"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/manaphy.png"
     },
@@ -4651,6 +5631,8 @@
       "types": [
         "Dark"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/darkrai.png"
     },
@@ -4660,6 +5642,8 @@
       "types": [
         "Grass"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/shaymin-land.png"
     },
@@ -4669,6 +5653,8 @@
       "types": [
         "Normal"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/arceus.png"
     },
@@ -4679,6 +5665,8 @@
         "Psychic",
         "Fire"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/victini.png"
     },
@@ -4688,6 +5676,8 @@
       "types": [
         "Grass"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/snivy.png"
     },
@@ -4697,6 +5687,8 @@
       "types": [
         "Grass"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/servine.png"
     },
@@ -4706,6 +5698,8 @@
       "types": [
         "Grass"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/serperior.png"
     },
@@ -4715,6 +5709,8 @@
       "types": [
         "Fire"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/tepig.png"
     },
@@ -4725,6 +5721,8 @@
         "Fire",
         "Fighting"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/pignite.png"
     },
@@ -4735,6 +5733,8 @@
         "Fire",
         "Fighting"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/emboar.png"
     },
@@ -4744,6 +5744,8 @@
       "types": [
         "Water"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/oshawott.png"
     },
@@ -4753,6 +5755,8 @@
       "types": [
         "Water"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/dewott.png"
     },
@@ -4762,6 +5766,8 @@
       "types": [
         "Water"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/samurott.png"
     },
@@ -4771,6 +5777,8 @@
       "types": [
         "Normal"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/patrat.png"
     },
@@ -4780,6 +5788,8 @@
       "types": [
         "Normal"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/watchog.png"
     },
@@ -4789,6 +5799,8 @@
       "types": [
         "Normal"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/lillipup.png"
     },
@@ -4798,6 +5810,8 @@
       "types": [
         "Normal"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/herdier.png"
     },
@@ -4807,6 +5821,8 @@
       "types": [
         "Normal"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/stoutland.png"
     },
@@ -4816,6 +5832,8 @@
       "types": [
         "Dark"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/purrloin.png"
     },
@@ -4825,6 +5843,8 @@
       "types": [
         "Dark"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/liepard.png"
     },
@@ -4834,6 +5854,8 @@
       "types": [
         "Grass"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/pansage.png"
     },
@@ -4843,6 +5865,8 @@
       "types": [
         "Grass"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/simisage.png"
     },
@@ -4852,6 +5876,8 @@
       "types": [
         "Fire"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/pansear.png"
     },
@@ -4861,6 +5887,8 @@
       "types": [
         "Fire"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/simisear.png"
     },
@@ -4870,6 +5898,8 @@
       "types": [
         "Water"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/panpour.png"
     },
@@ -4879,6 +5909,8 @@
       "types": [
         "Water"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/simipour.png"
     },
@@ -4888,6 +5920,8 @@
       "types": [
         "Psychic"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/munna.png"
     },
@@ -4897,6 +5931,8 @@
       "types": [
         "Psychic"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/musharna.png"
     },
@@ -4907,6 +5943,8 @@
         "Normal",
         "Flying"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/pidove.png"
     },
@@ -4917,6 +5955,8 @@
         "Normal",
         "Flying"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/tranquill.png"
     },
@@ -4927,6 +5967,8 @@
         "Normal",
         "Flying"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/unfezant.png"
     },
@@ -4936,6 +5978,8 @@
       "types": [
         "Electric"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/blitzle.png"
     },
@@ -4945,6 +5989,8 @@
       "types": [
         "Electric"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/zebstrika.png"
     },
@@ -4954,6 +6000,8 @@
       "types": [
         "Rock"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/roggenrola.png"
     },
@@ -4963,6 +6011,8 @@
       "types": [
         "Rock"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/boldore.png"
     },
@@ -4972,6 +6022,8 @@
       "types": [
         "Rock"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/gigalith.png"
     },
@@ -4982,6 +6034,8 @@
         "Psychic",
         "Flying"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/woobat.png"
     },
@@ -4992,6 +6046,8 @@
         "Psychic",
         "Flying"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/swoobat.png"
     },
@@ -5001,6 +6057,8 @@
       "types": [
         "Ground"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/drilbur.png"
     },
@@ -5011,6 +6069,8 @@
         "Ground",
         "Steel"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/excadrill.png"
     },
@@ -5020,6 +6080,8 @@
       "types": [
         "Normal"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/audino.png"
     },
@@ -5029,6 +6091,8 @@
       "types": [
         "Fighting"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/timburr.png"
     },
@@ -5038,6 +6102,8 @@
       "types": [
         "Fighting"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/gurdurr.png"
     },
@@ -5047,6 +6113,8 @@
       "types": [
         "Fighting"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/conkeldurr.png"
     },
@@ -5056,6 +6124,8 @@
       "types": [
         "Water"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/tympole.png"
     },
@@ -5066,6 +6136,8 @@
         "Water",
         "Ground"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/palpitoad.png"
     },
@@ -5076,6 +6148,8 @@
         "Water",
         "Ground"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/seismitoad.png"
     },
@@ -5085,6 +6159,8 @@
       "types": [
         "Fighting"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/throh.png"
     },
@@ -5094,6 +6170,8 @@
       "types": [
         "Fighting"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/sawk.png"
     },
@@ -5104,6 +6182,8 @@
         "Bug",
         "Grass"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/sewaddle.png"
     },
@@ -5114,6 +6194,8 @@
         "Bug",
         "Grass"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/swadloon.png"
     },
@@ -5124,6 +6206,8 @@
         "Bug",
         "Grass"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/leavanny.png"
     },
@@ -5134,6 +6218,8 @@
         "Bug",
         "Poison"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/venipede.png"
     },
@@ -5144,6 +6230,8 @@
         "Bug",
         "Poison"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/whirlipede.png"
     },
@@ -5154,6 +6242,8 @@
         "Bug",
         "Poison"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/scolipede.png"
     },
@@ -5164,6 +6254,8 @@
         "Grass",
         "Fairy"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/cottonee.png"
     },
@@ -5174,6 +6266,8 @@
         "Grass",
         "Fairy"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/whimsicott.png"
     },
@@ -5183,6 +6277,8 @@
       "types": [
         "Grass"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/petilil.png"
     },
@@ -5192,6 +6288,8 @@
       "types": [
         "Grass"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/lilligant.png"
     },
@@ -5201,6 +6299,8 @@
       "types": [
         "Water"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/basculin-red-striped.png"
     },
@@ -5211,6 +6311,8 @@
         "Ground",
         "Dark"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/sandile.png"
     },
@@ -5221,6 +6323,8 @@
         "Ground",
         "Dark"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/krokorok.png"
     },
@@ -5231,6 +6335,8 @@
         "Ground",
         "Dark"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/krookodile.png"
     },
@@ -5240,6 +6346,8 @@
       "types": [
         "Fire"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/darumaka.png"
     },
@@ -5249,6 +6357,8 @@
       "types": [
         "Fire"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/darmanitan-standard.png"
     },
@@ -5258,6 +6368,8 @@
       "types": [
         "Grass"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/maractus.png"
     },
@@ -5268,6 +6380,8 @@
         "Bug",
         "Rock"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/dwebble.png"
     },
@@ -5278,6 +6392,8 @@
         "Bug",
         "Rock"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/crustle.png"
     },
@@ -5288,6 +6404,8 @@
         "Dark",
         "Fighting"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/scraggy.png"
     },
@@ -5298,6 +6416,8 @@
         "Dark",
         "Fighting"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/scrafty.png"
     },
@@ -5308,6 +6428,8 @@
         "Psychic",
         "Flying"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/sigilyph.png"
     },
@@ -5317,6 +6439,8 @@
       "types": [
         "Ghost"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/yamask.png"
     },
@@ -5326,6 +6450,8 @@
       "types": [
         "Ghost"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/cofagrigus.png"
     },
@@ -5336,6 +6462,8 @@
         "Water",
         "Rock"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/tirtouga.png"
     },
@@ -5346,6 +6474,8 @@
         "Water",
         "Rock"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/carracosta.png"
     },
@@ -5356,6 +6486,8 @@
         "Rock",
         "Flying"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/archen.png"
     },
@@ -5366,6 +6498,8 @@
         "Rock",
         "Flying"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/archeops.png"
     },
@@ -5375,6 +6509,8 @@
       "types": [
         "Poison"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/trubbish.png"
     },
@@ -5384,6 +6520,8 @@
       "types": [
         "Poison"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/garbodor.png"
     },
@@ -5393,6 +6531,8 @@
       "types": [
         "Dark"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/zorua.png"
     },
@@ -5402,6 +6542,8 @@
       "types": [
         "Dark"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/zoroark.png"
     },
@@ -5411,6 +6553,8 @@
       "types": [
         "Normal"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/minccino.png"
     },
@@ -5420,6 +6564,8 @@
       "types": [
         "Normal"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/cinccino.png"
     },
@@ -5429,6 +6575,8 @@
       "types": [
         "Psychic"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/gothita.png"
     },
@@ -5438,6 +6586,8 @@
       "types": [
         "Psychic"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/gothorita.png"
     },
@@ -5447,6 +6597,8 @@
       "types": [
         "Psychic"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/gothitelle.png"
     },
@@ -5456,6 +6608,8 @@
       "types": [
         "Psychic"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/solosis.png"
     },
@@ -5465,6 +6619,8 @@
       "types": [
         "Psychic"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/duosion.png"
     },
@@ -5474,6 +6630,8 @@
       "types": [
         "Psychic"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/reuniclus.png"
     },
@@ -5484,6 +6642,8 @@
         "Water",
         "Flying"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/ducklett.png"
     },
@@ -5494,6 +6654,8 @@
         "Water",
         "Flying"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/swanna.png"
     },
@@ -5503,6 +6665,8 @@
       "types": [
         "Ice"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/vanillite.png"
     },
@@ -5512,6 +6676,8 @@
       "types": [
         "Ice"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/vanillish.png"
     },
@@ -5521,6 +6687,8 @@
       "types": [
         "Ice"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/vanilluxe.png"
     },
@@ -5531,6 +6699,8 @@
         "Normal",
         "Grass"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/deerling.png"
     },
@@ -5541,6 +6711,8 @@
         "Normal",
         "Grass"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/sawsbuck.png"
     },
@@ -5551,6 +6723,8 @@
         "Electric",
         "Flying"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/emolga.png"
     },
@@ -5560,6 +6734,8 @@
       "types": [
         "Bug"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/karrablast.png"
     },
@@ -5570,6 +6746,8 @@
         "Bug",
         "Steel"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/escavalier.png"
     },
@@ -5580,6 +6758,8 @@
         "Grass",
         "Poison"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/foongus.png"
     },
@@ -5590,6 +6770,8 @@
         "Grass",
         "Poison"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/amoonguss.png"
     },
@@ -5600,6 +6782,8 @@
         "Water",
         "Ghost"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/frillish.png"
     },
@@ -5610,6 +6794,8 @@
         "Water",
         "Ghost"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/jellicent.png"
     },
@@ -5619,6 +6805,8 @@
       "types": [
         "Water"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/alomomola.png"
     },
@@ -5629,6 +6817,8 @@
         "Bug",
         "Electric"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/joltik.png"
     },
@@ -5639,6 +6829,8 @@
         "Bug",
         "Electric"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/galvantula.png"
     },
@@ -5649,6 +6841,8 @@
         "Grass",
         "Steel"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/ferroseed.png"
     },
@@ -5659,6 +6853,8 @@
         "Grass",
         "Steel"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/ferrothorn.png"
     },
@@ -5668,6 +6864,8 @@
       "types": [
         "Steel"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/klink.png"
     },
@@ -5677,6 +6875,8 @@
       "types": [
         "Steel"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/klang.png"
     },
@@ -5686,6 +6886,8 @@
       "types": [
         "Steel"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/klinklang.png"
     },
@@ -5695,6 +6897,8 @@
       "types": [
         "Electric"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/tynamo.png"
     },
@@ -5704,6 +6908,8 @@
       "types": [
         "Electric"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/eelektrik.png"
     },
@@ -5713,6 +6919,8 @@
       "types": [
         "Electric"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/eelektross.png"
     },
@@ -5722,6 +6930,8 @@
       "types": [
         "Psychic"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/elgyem.png"
     },
@@ -5731,6 +6941,8 @@
       "types": [
         "Psychic"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/beheeyem.png"
     },
@@ -5741,6 +6953,8 @@
         "Ghost",
         "Fire"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/litwick.png"
     },
@@ -5751,6 +6965,8 @@
         "Ghost",
         "Fire"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/lampent.png"
     },
@@ -5761,6 +6977,8 @@
         "Ghost",
         "Fire"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/chandelure.png"
     },
@@ -5770,6 +6988,8 @@
       "types": [
         "Dragon"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/axew.png"
     },
@@ -5779,6 +6999,8 @@
       "types": [
         "Dragon"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/fraxure.png"
     },
@@ -5788,6 +7010,8 @@
       "types": [
         "Dragon"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/haxorus.png"
     },
@@ -5797,6 +7021,8 @@
       "types": [
         "Ice"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/cubchoo.png"
     },
@@ -5806,6 +7032,8 @@
       "types": [
         "Ice"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/beartic.png"
     },
@@ -5815,6 +7043,8 @@
       "types": [
         "Ice"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/cryogonal.png"
     },
@@ -5824,6 +7054,8 @@
       "types": [
         "Bug"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/shelmet.png"
     },
@@ -5833,6 +7065,8 @@
       "types": [
         "Bug"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/accelgor.png"
     },
@@ -5843,6 +7077,8 @@
         "Ground",
         "Electric"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/stunfisk.png"
     },
@@ -5852,6 +7088,8 @@
       "types": [
         "Fighting"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/mienfoo.png"
     },
@@ -5861,6 +7099,8 @@
       "types": [
         "Fighting"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/mienshao.png"
     },
@@ -5870,6 +7110,8 @@
       "types": [
         "Dragon"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/druddigon.png"
     },
@@ -5880,6 +7122,8 @@
         "Ground",
         "Ghost"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/golett.png"
     },
@@ -5890,6 +7134,8 @@
         "Ground",
         "Ghost"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/golurk.png"
     },
@@ -5900,6 +7146,8 @@
         "Dark",
         "Steel"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/pawniard.png"
     },
@@ -5910,6 +7158,8 @@
         "Dark",
         "Steel"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/bisharp.png"
     },
@@ -5919,6 +7169,8 @@
       "types": [
         "Normal"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/bouffalant.png"
     },
@@ -5929,6 +7181,8 @@
         "Normal",
         "Flying"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/rufflet.png"
     },
@@ -5939,6 +7193,8 @@
         "Normal",
         "Flying"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/braviary.png"
     },
@@ -5949,6 +7205,8 @@
         "Dark",
         "Flying"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/vullaby.png"
     },
@@ -5959,6 +7217,8 @@
         "Dark",
         "Flying"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/mandibuzz.png"
     },
@@ -5968,6 +7228,8 @@
       "types": [
         "Fire"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/heatmor.png"
     },
@@ -5978,6 +7240,8 @@
         "Bug",
         "Steel"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/durant.png"
     },
@@ -5988,6 +7252,8 @@
         "Dark",
         "Dragon"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/deino.png"
     },
@@ -5998,6 +7264,8 @@
         "Dark",
         "Dragon"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/zweilous.png"
     },
@@ -6008,6 +7276,8 @@
         "Dark",
         "Dragon"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/hydreigon.png"
     },
@@ -6018,6 +7288,8 @@
         "Bug",
         "Fire"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/larvesta.png"
     },
@@ -6028,6 +7300,8 @@
         "Bug",
         "Fire"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/volcarona.png"
     },
@@ -6038,6 +7312,8 @@
         "Steel",
         "Fighting"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/cobalion.png"
     },
@@ -6048,6 +7324,8 @@
         "Rock",
         "Fighting"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/terrakion.png"
     },
@@ -6058,6 +7336,8 @@
         "Grass",
         "Fighting"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/virizion.png"
     },
@@ -6067,6 +7347,8 @@
       "types": [
         "Flying"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/tornadus-incarnate.png"
     },
@@ -6077,6 +7359,8 @@
         "Electric",
         "Flying"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/thundurus-incarnate.png"
     },
@@ -6087,6 +7371,8 @@
         "Dragon",
         "Fire"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/reshiram.png"
     },
@@ -6097,6 +7383,8 @@
         "Dragon",
         "Electric"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/zekrom.png"
     },
@@ -6107,6 +7395,8 @@
         "Ground",
         "Flying"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/landorus-incarnate.png"
     },
@@ -6117,6 +7407,8 @@
         "Dragon",
         "Ice"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/kyurem.png"
     },
@@ -6127,6 +7419,8 @@
         "Water",
         "Fighting"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/keldeo-ordinary.png"
     },
@@ -6137,6 +7431,8 @@
         "Normal",
         "Psychic"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/meloetta-aria.png"
     },
@@ -6147,6 +7443,8 @@
         "Bug",
         "Steel"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/genesect.png"
     },
@@ -6156,6 +7454,8 @@
       "types": [
         "Grass"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/chespin.png"
     },
@@ -6165,6 +7465,8 @@
       "types": [
         "Grass"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/quilladin.png"
     },
@@ -6175,6 +7477,8 @@
         "Grass",
         "Fighting"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/chesnaught.png"
     },
@@ -6184,6 +7488,8 @@
       "types": [
         "Fire"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/fennekin.png"
     },
@@ -6193,6 +7499,8 @@
       "types": [
         "Fire"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/braixen.png"
     },
@@ -6203,6 +7511,8 @@
         "Fire",
         "Psychic"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/delphox.png"
     },
@@ -6212,6 +7522,8 @@
       "types": [
         "Water"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/froakie.png"
     },
@@ -6221,6 +7533,8 @@
       "types": [
         "Water"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/frogadier.png"
     },
@@ -6231,6 +7545,8 @@
         "Water",
         "Dark"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/greninja.png"
     },
@@ -6240,6 +7556,8 @@
       "types": [
         "Normal"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/bunnelby.png"
     },
@@ -6250,6 +7568,8 @@
         "Normal",
         "Ground"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/diggersby.png"
     },
@@ -6260,6 +7580,8 @@
         "Normal",
         "Flying"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/fletchling.png"
     },
@@ -6270,6 +7592,8 @@
         "Fire",
         "Flying"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/fletchinder.png"
     },
@@ -6280,6 +7604,8 @@
         "Fire",
         "Flying"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/talonflame.png"
     },
@@ -6289,6 +7615,8 @@
       "types": [
         "Bug"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/scatterbug.png"
     },
@@ -6298,6 +7626,8 @@
       "types": [
         "Bug"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/spewpa.png"
     },
@@ -6308,6 +7638,8 @@
         "Bug",
         "Flying"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/vivillon.png"
     },
@@ -6318,6 +7650,8 @@
         "Fire",
         "Normal"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/litleo.png"
     },
@@ -6328,6 +7662,8 @@
         "Fire",
         "Normal"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/pyroar.png"
     },
@@ -6337,6 +7673,8 @@
       "types": [
         "Fairy"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/flabebe.png"
     },
@@ -6346,6 +7684,8 @@
       "types": [
         "Fairy"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/floette.png"
     },
@@ -6355,6 +7695,8 @@
       "types": [
         "Fairy"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/florges.png"
     },
@@ -6364,6 +7706,8 @@
       "types": [
         "Grass"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/skiddo.png"
     },
@@ -6373,6 +7717,8 @@
       "types": [
         "Grass"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/gogoat.png"
     },
@@ -6382,6 +7728,8 @@
       "types": [
         "Fighting"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/pancham.png"
     },
@@ -6392,6 +7740,8 @@
         "Fighting",
         "Dark"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/pangoro.png"
     },
@@ -6401,6 +7751,8 @@
       "types": [
         "Normal"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/furfrou.png"
     },
@@ -6410,6 +7762,8 @@
       "types": [
         "Psychic"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/espurr.png"
     },
@@ -6419,6 +7773,8 @@
       "types": [
         "Psychic"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/meowstic-male.png"
     },
@@ -6429,6 +7785,8 @@
         "Steel",
         "Ghost"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/honedge.png"
     },
@@ -6439,6 +7797,8 @@
         "Steel",
         "Ghost"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/doublade.png"
     },
@@ -6449,6 +7809,8 @@
         "Steel",
         "Ghost"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/aegislash-blade.png"
     },
@@ -6458,6 +7820,8 @@
       "types": [
         "Fairy"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/spritzee.png"
     },
@@ -6467,6 +7831,8 @@
       "types": [
         "Fairy"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/aromatisse.png"
     },
@@ -6476,6 +7842,8 @@
       "types": [
         "Fairy"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/swirlix.png"
     },
@@ -6485,6 +7853,8 @@
       "types": [
         "Fairy"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/slurpuff.png"
     },
@@ -6495,6 +7865,8 @@
         "Dark",
         "Psychic"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/inkay.png"
     },
@@ -6505,6 +7877,8 @@
         "Dark",
         "Psychic"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/malamar.png"
     },
@@ -6515,6 +7889,8 @@
         "Rock",
         "Water"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/binacle.png"
     },
@@ -6525,6 +7901,8 @@
         "Rock",
         "Water"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/barbaracle.png"
     },
@@ -6535,6 +7913,8 @@
         "Poison",
         "Water"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/skrelp.png"
     },
@@ -6545,6 +7925,8 @@
         "Poison",
         "Dragon"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/dragalge.png"
     },
@@ -6554,6 +7936,8 @@
       "types": [
         "Water"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/clauncher.png"
     },
@@ -6563,6 +7947,8 @@
       "types": [
         "Water"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/clawitzer.png"
     },
@@ -6573,6 +7959,8 @@
         "Electric",
         "Normal"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/helioptile.png"
     },
@@ -6583,6 +7971,8 @@
         "Electric",
         "Normal"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/heliolisk.png"
     },
@@ -6593,6 +7983,8 @@
         "Rock",
         "Dragon"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/tyrunt.png"
     },
@@ -6603,6 +7995,8 @@
         "Rock",
         "Dragon"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/tyrantrum.png"
     },
@@ -6613,6 +8007,8 @@
         "Rock",
         "Ice"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/amaura.png"
     },
@@ -6623,6 +8019,8 @@
         "Rock",
         "Ice"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/aurorus.png"
     },
@@ -6632,6 +8030,8 @@
       "types": [
         "Fairy"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/sylveon.png"
     },
@@ -6642,6 +8042,8 @@
         "Fighting",
         "Flying"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/hawlucha.png"
     },
@@ -6652,6 +8054,8 @@
         "Electric",
         "Fairy"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/dedenne.png"
     },
@@ -6662,6 +8066,8 @@
         "Rock",
         "Fairy"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/carbink.png"
     },
@@ -6671,6 +8077,8 @@
       "types": [
         "Dragon"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/goomy.png"
     },
@@ -6680,6 +8088,8 @@
       "types": [
         "Dragon"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/sliggoo.png"
     },
@@ -6689,6 +8099,8 @@
       "types": [
         "Dragon"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/goodra.png"
     },
@@ -6699,6 +8111,8 @@
         "Steel",
         "Fairy"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/klefki.png"
     },
@@ -6709,6 +8123,8 @@
         "Ghost",
         "Grass"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/phantump.png"
     },
@@ -6719,6 +8135,8 @@
         "Ghost",
         "Grass"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/trevenant.png"
     },
@@ -6729,6 +8147,8 @@
         "Ghost",
         "Grass"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/pumpkaboo-average.png"
     },
@@ -6739,6 +8159,8 @@
         "Ghost",
         "Grass"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/gourgeist-average.png"
     },
@@ -6748,6 +8170,8 @@
       "types": [
         "Ice"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/bergmite.png"
     },
@@ -6757,6 +8181,8 @@
       "types": [
         "Ice"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/avalugg.png"
     },
@@ -6767,6 +8193,8 @@
         "Flying",
         "Dragon"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/noibat.png"
     },
@@ -6777,6 +8205,8 @@
         "Flying",
         "Dragon"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/noivern.png"
     },
@@ -6786,6 +8216,8 @@
       "types": [
         "Fairy"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/xerneas.png"
     },
@@ -6796,6 +8228,8 @@
         "Dark",
         "Flying"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/yveltal.png"
     },
@@ -6806,6 +8240,8 @@
         "Dragon",
         "Ground"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/zygarde-50.png"
     },
@@ -6816,6 +8252,8 @@
         "Rock",
         "Fairy"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/diancie.png"
     },
@@ -6826,6 +8264,8 @@
         "Psychic",
         "Ghost"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/hoopa-confined.png"
     },
@@ -6836,6 +8276,8 @@
         "Fire",
         "Water"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/volcanion.png"
     },
@@ -6846,6 +8288,8 @@
         "Grass",
         "Flying"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/rowlet.png"
     },
@@ -6856,6 +8300,8 @@
         "Grass",
         "Flying"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/dartrix.png"
     },
@@ -6866,6 +8312,8 @@
         "Grass",
         "Ghost"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/decidueye.png"
     },
@@ -6875,6 +8323,8 @@
       "types": [
         "Fire"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/litten.png"
     },
@@ -6884,6 +8334,8 @@
       "types": [
         "Fire"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/torracat.png"
     },
@@ -6894,6 +8346,8 @@
         "Fire",
         "Dark"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/incineroar.png"
     },
@@ -6903,6 +8357,8 @@
       "types": [
         "Water"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/popplio.png"
     },
@@ -6912,6 +8368,8 @@
       "types": [
         "Water"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/brionne.png"
     },
@@ -6922,6 +8380,8 @@
         "Water",
         "Fairy"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/primarina.png"
     },
@@ -6932,6 +8392,8 @@
         "Normal",
         "Flying"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/pikipek.png"
     },
@@ -6942,6 +8404,8 @@
         "Normal",
         "Flying"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/trumbeak.png"
     },
@@ -6952,6 +8416,8 @@
         "Normal",
         "Flying"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/toucannon.png"
     },
@@ -6961,6 +8427,8 @@
       "types": [
         "Normal"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/yungoos.png"
     },
@@ -6970,6 +8438,8 @@
       "types": [
         "Normal"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/gumshoos.png"
     },
@@ -6979,6 +8449,8 @@
       "types": [
         "Bug"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/grubbin.png"
     },
@@ -6989,6 +8461,8 @@
         "Bug",
         "Electric"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/charjabug.png"
     },
@@ -6999,6 +8473,8 @@
         "Bug",
         "Electric"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/vikavolt.png"
     },
@@ -7008,6 +8484,8 @@
       "types": [
         "Fighting"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/crabrawler.png"
     },
@@ -7018,6 +8496,8 @@
         "Fighting",
         "Ice"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/crabominable.png"
     },
@@ -7028,6 +8508,8 @@
         "Fire",
         "Flying"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/oricorio-baile.png"
     },
@@ -7038,6 +8520,8 @@
         "Bug",
         "Fairy"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/cutiefly.png"
     },
@@ -7048,6 +8532,8 @@
         "Bug",
         "Fairy"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/ribombee.png"
     },
@@ -7057,6 +8543,8 @@
       "types": [
         "Rock"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/rockruff.png"
     },
@@ -7066,6 +8554,8 @@
       "types": [
         "Rock"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/lycanroc-midday.png"
     },
@@ -7075,6 +8565,8 @@
       "types": [
         "Water"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/wishiwashi-solo.png"
     },
@@ -7085,6 +8577,8 @@
         "Poison",
         "Water"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/mareanie.png"
     },
@@ -7095,6 +8589,8 @@
         "Poison",
         "Water"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/toxapex.png"
     },
@@ -7104,6 +8600,8 @@
       "types": [
         "Ground"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/mudbray.png"
     },
@@ -7113,6 +8611,8 @@
       "types": [
         "Ground"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/mudsdale.png"
     },
@@ -7123,6 +8623,8 @@
         "Water",
         "Bug"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/dewpider.png"
     },
@@ -7133,6 +8635,8 @@
         "Water",
         "Bug"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/araquanid.png"
     },
@@ -7142,6 +8646,8 @@
       "types": [
         "Grass"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/fomantis.png"
     },
@@ -7151,6 +8657,8 @@
       "types": [
         "Grass"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/lurantis.png"
     },
@@ -7161,6 +8669,8 @@
         "Grass",
         "Fairy"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/morelull.png"
     },
@@ -7171,6 +8681,8 @@
         "Grass",
         "Fairy"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/shiinotic.png"
     },
@@ -7181,6 +8693,8 @@
         "Poison",
         "Fire"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/salandit.png"
     },
@@ -7191,6 +8705,8 @@
         "Poison",
         "Fire"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/salazzle.png"
     },
@@ -7201,6 +8717,8 @@
         "Normal",
         "Fighting"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/stufful.png"
     },
@@ -7211,6 +8729,8 @@
         "Normal",
         "Fighting"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/bewear.png"
     },
@@ -7220,6 +8740,8 @@
       "types": [
         "Grass"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/bounsweet.png"
     },
@@ -7229,6 +8751,8 @@
       "types": [
         "Grass"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/steenee.png"
     },
@@ -7238,6 +8762,8 @@
       "types": [
         "Grass"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/tsareena.png"
     },
@@ -7247,6 +8773,8 @@
       "types": [
         "Fairy"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/comfey.png"
     },
@@ -7257,6 +8785,8 @@
         "Normal",
         "Psychic"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/oranguru.png"
     },
@@ -7266,6 +8796,8 @@
       "types": [
         "Fighting"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/passimian.png"
     },
@@ -7276,6 +8808,8 @@
         "Bug",
         "Water"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/wimpod.png"
     },
@@ -7286,6 +8820,8 @@
         "Bug",
         "Water"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/golisopod.png"
     },
@@ -7296,6 +8832,8 @@
         "Ghost",
         "Ground"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/sandygast.png"
     },
@@ -7306,6 +8844,8 @@
         "Ghost",
         "Ground"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/palossand.png"
     },
@@ -7315,6 +8855,8 @@
       "types": [
         "Water"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/pyukumuku.png"
     },
@@ -7324,6 +8866,8 @@
       "types": [
         "Normal"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/type-null.png"
     },
@@ -7333,6 +8877,8 @@
       "types": [
         "Normal"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/silvally.png"
     },
@@ -7343,6 +8889,8 @@
         "Rock",
         "Flying"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/minior-meteor.png"
     },
@@ -7352,6 +8900,8 @@
       "types": [
         "Normal"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/komala.png"
     },
@@ -7362,6 +8912,8 @@
         "Fire",
         "Dragon"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/turtonator.png"
     },
@@ -7372,6 +8924,8 @@
         "Electric",
         "Steel"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/togedemaru.png"
     },
@@ -7382,6 +8936,8 @@
         "Ghost",
         "Fairy"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/mimikyu.png"
     },
@@ -7392,6 +8948,8 @@
         "Water",
         "Psychic"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/bruxish.png"
     },
@@ -7402,6 +8960,8 @@
         "Normal",
         "Dragon"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/drampa.png"
     },
@@ -7412,6 +8972,8 @@
         "Ghost",
         "Grass"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/dhelmise.png"
     },
@@ -7421,6 +8983,8 @@
       "types": [
         "Dragon"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/jangmo-o.png"
     },
@@ -7431,6 +8995,8 @@
         "Dragon",
         "Fighting"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/hakamo-o.png"
     },
@@ -7441,6 +9007,8 @@
         "Dragon",
         "Fighting"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/kommo-o.png"
     },
@@ -7451,6 +9019,8 @@
         "Electric",
         "Fairy"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/tapu-koko.png"
     },
@@ -7461,6 +9031,8 @@
         "Psychic",
         "Fairy"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/tapu-lele.png"
     },
@@ -7471,6 +9043,8 @@
         "Grass",
         "Fairy"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/tapu-bulu.png"
     },
@@ -7481,6 +9055,8 @@
         "Water",
         "Fairy"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/tapu-fini.png"
     },
@@ -7490,6 +9066,8 @@
       "types": [
         "Psychic"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/cosmog.png"
     },
@@ -7499,6 +9077,8 @@
       "types": [
         "Psychic"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/cosmoem.png"
     },
@@ -7509,6 +9089,8 @@
         "Psychic",
         "Steel"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/solgaleo.png"
     },
@@ -7519,6 +9101,8 @@
         "Psychic",
         "Ghost"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/lunala.png"
     },
@@ -7529,6 +9113,8 @@
         "Rock",
         "Poison"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/nihilego.png"
     },
@@ -7539,6 +9125,8 @@
         "Bug",
         "Fighting"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/buzzwole.png"
     },
@@ -7549,6 +9137,8 @@
         "Bug",
         "Fighting"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/pheromosa.png"
     },
@@ -7558,6 +9148,8 @@
       "types": [
         "Electric"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/xurkitree.png"
     },
@@ -7568,6 +9160,8 @@
         "Steel",
         "Flying"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/celesteela.png"
     },
@@ -7578,6 +9172,8 @@
         "Grass",
         "Steel"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/kartana.png"
     },
@@ -7588,6 +9184,8 @@
         "Dark",
         "Dragon"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/guzzlord.png"
     },
@@ -7597,6 +9195,8 @@
       "types": [
         "Psychic"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/necrozma.png"
     },
@@ -7607,6 +9207,8 @@
         "Steel",
         "Fairy"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/magearna.png"
     },
@@ -7617,6 +9219,8 @@
         "Fighting",
         "Ghost"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/marshadow.png"
     },
@@ -7626,6 +9230,8 @@
       "types": [
         "Poison"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/poipole.png"
     },
@@ -7636,6 +9242,8 @@
         "Poison",
         "Dragon"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/naganadel.png"
     },
@@ -7646,6 +9254,8 @@
         "Rock",
         "Steel"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/stakataka.png"
     },
@@ -7656,6 +9266,8 @@
         "Fire",
         "Ghost"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/blacephalon.png"
     },
@@ -7665,6 +9277,8 @@
       "types": [
         "Electric"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/zeraora.png"
     },
@@ -7674,6 +9288,8 @@
       "types": [
         "Steel"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/meltan.png"
     },
@@ -7683,6 +9299,8 @@
       "types": [
         "Steel"
       ],
+      "height": "3 ft ",
+      "weight": "20 pounds ",
       "evolution": "",
       "url": "http://localhost:3000/images/melmetal.png"
     }
