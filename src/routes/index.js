@@ -25,7 +25,7 @@ function routes(app) {
     searchByIdController(req, res);
   });
 
-  app.post("/api/pokemons", (req, res) => {
+  app.post("/api/pokemons/create", (req, res) => {
     postNewPokemon(req.res);
   });
 }
