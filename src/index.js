@@ -17,7 +17,10 @@ const router = require("./routes/index");
 
 router(app);
 
-app.use("/images", express.static(path.join(__dirname, "../data/images")));
+app.use(
+  "/images",
+  express.static(path.join(__dirname, "../data/raw-data/images"))
+);
 
 app.listen(port, () => {
   console.log(`Example app listening on port: ${port}`);
