@@ -118,16 +118,12 @@ export default function PokeList() {
   const [next, setNext] = useState(false);
   const dispatch = useDispatch();
   const { pokemons } = useSelector((state) => state.pokemons);
-  const { pokemonSearchingList } = useSelector(
-    (state) => state.pokemons.pokemonSearchingList
-  );
-  console.log(pokemonSearchingList);
-  const { isSearchingName } = useSelector(
-    (state) => state.pokemons.isSearchingName
-  );
-  console.log(isSearchingName);
   const handleChangePage = () => {
-    dispatch(changePage());
+    try {
+      dispatch(changePage());
+    } catch (error) {
+      console.log("error:", error);
+    }
   };
 
   return (

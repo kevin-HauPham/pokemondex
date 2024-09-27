@@ -6,9 +6,6 @@ import { useForm } from "react-hook-form";
 import { useDispatch } from "react-redux";
 import { getPokemons, searchQuery } from "../features/pokemons/pokemonSlice";
 import { FormProvider, FTextField } from "./form";
-
-import { getPokemonByName } from "../features/pokemons/pokemonSlice";
-
 const styles = {
   container: {
     // padding: '0!important',

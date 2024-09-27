@@ -4,13 +4,13 @@ import Modal from "@mui/material/Modal";
 
 import { useForm } from "react-hook-form";
 import { useDispatch } from "react-redux";
-import { alpha, Stack } from "@mui/material";
+import { alpha, Autocomplete, Stack, TextField } from "@mui/material";
 import { LoadingButton } from "@mui/lab";
 
 import { addPokemon } from "../features/pokemons/pokemonSlice";
 import { useNavigate } from "react-router-dom";
 import { useState } from "react";
-
+import { pokemonTypes } from "../pokemonTypes";
 const style = {
   position: "absolute",
   top: "50%",
@@ -119,33 +119,43 @@ export default function PokemonModal({ open, setOpen }) {
                   },
                 }}
               />
-              <FTextField
+              <Autocomplete
+                options={pokemonTypes}
                 value={type1Value}
-                onChange={(e) => setType1Value(e.target.value)}
-                name="type1"
-                fullWidth
-                rows={4}
-                placeholder="Type 1"
-                sx={{
-                  "& fieldset": {
-                    borderWidth: `1px !important`,
-                    borderColor: alpha("#919EAB", 0.32),
-                  },
-                }}
+                onChange={(e, newValue) => setType1Value(newValue)}
+                renderInput={(params) => (
+                  <TextField
+                    {...params}
+                    label="Type 1"
+                    placeholder="Choose a type"
+                    fullWidth
+                    sx={{
+                      "& fieldset": {
+                        borderWidth: `1px !important`,
+                        borderColor: alpha("#919EAB", 0.32),
+                      },
+                    }}
+                  />
+                )}
               />
-              <FTextField
+              <Autocomplete
+                options={pokemonTypes}
                 value={type2Value}
-                onChange={(e) => setType2Value(e.target.value)}
-                name="type2"
-                fullWidth
-                rows={4}
-                placeholder="Type 2"
-                sx={{
-                  "& fieldset": {
-                    borderWidth: `1px !important`,
-                    borderColor: alpha("#919EAB", 0.32),
-                  },
-                }}
+                onChange={(e, newValue) => setType2Value(newValue)}
+                renderInput={(params) => (
+                  <TextField
+                    {...params}
+                    label="Type 2"
+                    placeholder="Choose a type"
+                    fullWidth
+                    sx={{
+                      "& fieldset": {
+                        borderWidth: `1px !important`,
+                        borderColor: alpha("#919EAB", 0.32),
+                      },
+                    }}
+                  />
+                )}
               />
 
               <Box
