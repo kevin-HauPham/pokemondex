@@ -8,9 +8,15 @@ import { Box, Button, Container, Grid, Stack } from "@mui/material";
 import InfiniteScroll from "react-infinite-scroll-component";
 import { PokeType } from "./PokeType";
 import { useDispatch, useSelector } from "react-redux";
-import { changePage, typeQuery } from "../features/pokemons/pokemonSlice";
+import {
+  changePage,
+  searchQuery,
+  typeQuery,
+} from "../features/pokemons/pokemonSlice";
 import { Link } from "react-router-dom";
 import { pokemonTypes } from "../pokemonTypes";
+import { useNavigate } from "react-router-dom";
+
 const styles = {
   container: {
     padding: "0!important",
@@ -117,13 +123,22 @@ export default function PokeList() {
   const [expanded, setExpanded] = useState(false);
   const [next, setNext] = useState(false);
   const dispatch = useDispatch();
-  const { pokemons } = useSelector((state) => state.pokemons);
+  const navigate = useNavigate();
+  const { pokemons, isLoading, search, page, type } = useSelector(
+    (state) => state.pokemons
+  );
+
   const handleChangePage = () => {
     try {
       dispatch(changePage());
     } catch (error) {
       console.log("error:", error);
     }
+  };
+
+  const handleGoHomePage = () => {
+    dispatch(searchQuery(""));
+    navigate(`/`);
   };
 
   return (
@@ -272,15 +287,29 @@ export default function PokeList() {
                 <Box
                   sx={{ ...styles.foot, bottom: next ? "-5rem" : "-2.5rem" }}
                 ></Box>
-                <Button
-                  sx={{
-                    ...styles.loadmore,
-                    display: next ? "none" : "inline-block",
-                  }}
-                  onClick={() => setNext(true)}
-                >
-                  Load more Pokémon
-                </Button>
+                {!isLoading ? (
+                  <>
+                    <Button
+                      sx={{
+                        ...styles.loadmore,
+                        display: next ? "none" : "inline-block",
+                      }}
+                      onClick={handleGoHomePage}
+                    >
+                      Home Page
+                    </Button>
+                  </>
+                ) : (
+                  <Button
+                    sx={{
+                      ...styles.loadmore,
+                      display: next ? "none" : "inline-block",
+                    }}
+                    onClick={() => setNext(true)}
+                  >
+                    Load more Pokémon
+                  </Button>
+                )}
               </Grid>
             </Grid>
           </InfiniteScroll>

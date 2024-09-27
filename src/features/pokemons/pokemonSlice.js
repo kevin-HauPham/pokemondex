@@ -90,6 +90,7 @@ export const pokemonSlice = createSlice({
       previousPokemon: null,
     },
     search: "",
+    isSearching: false,
     types: "",
     page: 1,
   },

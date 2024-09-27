@@ -53,9 +53,7 @@ export default function PokemonModal({ open, setOpen }) {
     dispatch(addPokemon(defaultValues))
       .then(() => setOpen(false))
       .then(() => {
-        setTimeout(() => {
-          navigate(`/pokemons/${idValue}`);
-        }, 2000);
+        navigate(`/pokemons/${idValue}`);
       });
 
     setNameValue("");

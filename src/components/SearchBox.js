@@ -3,7 +3,7 @@ import { Stack, Container, Grid, Typography, IconButton } from "@mui/material";
 import { Box } from "@mui/system";
 import React, { useState } from "react";
 import { useForm } from "react-hook-form";
-import { useDispatch } from "react-redux";
+import { useDispatch, useSelector } from "react-redux";
 import { getPokemons, searchQuery } from "../features/pokemons/pokemonSlice";
 import { FormProvider, FTextField } from "./form";
 const styles = {
@@ -54,6 +54,10 @@ const defaultValues = {
 
 export const SearchBox = () => {
   const [searchValue, setSearchValue] = useState("");
+  //const isSearching = useSelector((state) => state.pokemons);
+  const { search } = useSelector((state) => state.pokemons);
+
+  console.log("search:", search);
 
   const methods = useForm(defaultValues);
   const { handleSubmit } = methods;
