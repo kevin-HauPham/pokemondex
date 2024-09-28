@@ -6,14 +6,20 @@ export const getPokemons = createAsyncThunk(
   async ({ page, search, type, limit }, { rejectWithValue }) => {
     try {
       let url = `/api/pokemons`;
-      if (page) url += `?page=${page}`;
-      if (limit) url += `&limit=${limit}`;
-      if (search) url += `&search=${search}`;
-      if (type) url += `&type=${type}`;
-      const response = await apiService.get(url);
+      // if (page) url += `?page=${page}`;
+      // if (limit) url += `&limit=${limit}`;
+      // if (search) url += `&search=${search}`;
+      // if (type) url += `&type=${type}`;
+      const response = await apiService.get(url, {
+        params: {
+          page: !page && 0,
+          limit: !limit && 10,
+          search,
+          type
+      }});
       return response.data;
     } catch (error) {
-      return rejectWithValue(error);
+      return rejectWithValue(error.response.data);
     }
   }
 );
@@ -74,7 +80,7 @@ export const deletePokemon = createAsyncThunk(
       dispatch(getPokemonById());
       return;
     } catch (error) {
-      return rejectWithValue(error);
+      return rejectWithValue(error.response);
     }
   }
 );

@@ -15,7 +15,6 @@ import {
 } from "../features/pokemons/pokemonSlice";
 import { Link } from "react-router-dom";
 import { pokemonTypes } from "../pokemonTypes";
-import { useNavigate } from "react-router-dom";
 
 const styles = {
   container: {
@@ -123,10 +122,10 @@ export default function PokeList() {
   const [expanded, setExpanded] = useState(false);
   const [next, setNext] = useState(false);
   const dispatch = useDispatch();
-  const navigate = useNavigate();
-  const { pokemons, isLoading, search, page, type } = useSelector(
+  const { pokemons, search, errorMessage } = useSelector(
     (state) => state.pokemons
   );
+  console.log("errorMessage:", errorMessage);
 
   const handleChangePage = () => {
     try {
@@ -138,7 +137,6 @@ export default function PokeList() {
 
   const handleGoHomePage = () => {
     dispatch(searchQuery(""));
-    navigate(`/`);
   };
 
   return (
@@ -182,6 +180,7 @@ export default function PokeList() {
           Show Advanced Search
         </Box>
       </Box>
+
       <Box sx={styles.pokeBox}>
         {!pokemons.length ? (
           <Container maxWidth="md" sx={styles.loading}>
@@ -287,7 +286,7 @@ export default function PokeList() {
                 <Box
                   sx={{ ...styles.foot, bottom: next ? "-5rem" : "-2.5rem" }}
                 ></Box>
-                {!isLoading ? (
+                {search ? (
                   <>
                     <Button
                       sx={{

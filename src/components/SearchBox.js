@@ -3,7 +3,7 @@ import { Stack, Container, Grid, Typography, IconButton } from "@mui/material";
 import { Box } from "@mui/system";
 import React, { useState } from "react";
 import { useForm } from "react-hook-form";
-import { useDispatch, useSelector } from "react-redux";
+import { useDispatch } from "react-redux";
 import { getPokemons, searchQuery } from "../features/pokemons/pokemonSlice";
 import { FormProvider, FTextField } from "./form";
 const styles = {
@@ -54,18 +54,19 @@ const defaultValues = {
 
 export const SearchBox = () => {
   const [searchValue, setSearchValue] = useState("");
-  //const isSearching = useSelector((state) => state.pokemons);
-  const { search } = useSelector((state) => state.pokemons);
-
-  console.log("search:", search);
 
   const methods = useForm(defaultValues);
   const { handleSubmit } = methods;
   const dispatch = useDispatch();
 
   const onSubmit = (data) => {
-    dispatch(searchQuery(searchValue));
-    dispatch(getPokemons({ search: searchValue }));
+    try {
+      dispatch(searchQuery(searchValue));
+      dispatch(getPokemons({ page: 1, search: searchValue }));
+    } catch (error) {
+      console.log("errors", error);
+    }
+
     setSearchValue("");
   };
 
@@ -107,7 +108,8 @@ export const SearchBox = () => {
         <Grid item xs={12} sm={12} md={6} sx={styles.center}>
           <Box sx={styles.boxRight}>
             <Typography variant="h6">
-              Search for a Pokémon by name or using its National Pokédex number.
+              "Search for a Pokémon by name or using its National Pokédex
+              number."
             </Typography>
           </Box>
         </Grid>
